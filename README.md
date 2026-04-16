@@ -1,14 +1,20 @@
-# Project 1 — Fleet Rebalancing & Station Availability Analysis
+# Fleet Rebalancing & Station Availability Analysis
 
-**Bike Share Toronto — Operations Analytics Case Study**
+** Operations Analytics Case Study**
 **Author:** Wesley Haruo Kurosawa
 **Stack:** Python (pandas, matplotlib), SQL (PostgreSQL syntax)
 
 ---
+<img width="1429" height="588" alt="chart_01_daily_trips" src="https://github.com/user-attachments/assets/570cae02-7f6d-4773-8da9-af55530e9c0a" />
+<img width="1666" height="708" alt="chart_05_imbalance" src="https://github.com/user-attachments/assets/61862c2f-85ae-4d6b-b472-a1c117d6fc2d" />
+<img width="1309" height="589" alt="chart_04_hourly_pattern" src="https://github.com/user-attachments/assets/459d0368-2fe9-445a-af9b-54de0df69aec" />
+<img width="1427" height="588" alt="chart_03_downtown_biketype" src="https://github.com/user-attachments/assets/8e54d26e-15bd-4a84-821c-ccd75638d3bb" />
+<img width="1189" height="589" alt="chart_02_mom_distribution" src="https://github.com/user-attachments/assets/38555c77-7873-4b62-b6dc-cfaea7261492" />
+
 
 ## Executive Summary
 
-Between September and October 2025, overall ridership for a bikeshare system declined as expected due to seasonality — but a subset of downtown stations dropped at a rate far steeper than the seasonal baseline. This project detects that anomaly, isolates its root cause (an e-bike charging infrastructure outage affecting three downtown wards), quantifies the impact, and delivers a rebalancing recommendation for affected stations.
+Between September and October 2025, overall ridership for a share system declined as expected due to seasonality — but a subset of downtown stations dropped at a rate far steeper than the seasonal baseline. This project detects that anomaly, isolates its root cause (an e-bike charging infrastructure outage affecting three downtown wards), quantifies the impact, and delivers a rebalancing recommendation for affected stations.
 
 The analysis replicates the kind of investigation a Data Analyst on the Lyft Urban Solutions team would run when a city partner reports degraded service in a specific area.
 
