@@ -12,11 +12,7 @@
 <img width="1189" height="589" alt="chart_02_mom_distribution" src="https://github.com/user-attachments/assets/38555c77-7873-4b62-b6dc-cfaea7261492" />
 
 
-## Executive Summary
 
-Between September and October 2025, overall ridership for a share system declined as expected due to seasonality — but a subset of downtown stations dropped at a rate far steeper than the seasonal baseline. This project detects that anomaly, isolates its root cause (an ......... charging infrastructure outage affecting three downtown wards), quantifies the impact, and delivers a rebalancing recommendation for affected stations.
-
-The analysis replicates the kind of investigation a Data Analyst on the ....... ......... team would run when a city partner reports degraded service in a specific area.
 
 **Key findings:**
 
@@ -33,10 +29,6 @@ The analysis replicates the kind of investigation a Data Analyst on the ....... 
 ---
 
 ## Business Context
-
-....... operates 1,042 stations and over 10,000 ......... across all 25 Toronto wards. The system recorded 7.8 million trips in 2025, with e-......... delivering **twice the trips-per-day** of classic .......... This makes ......... availability a critical revenue driver — a charging outage doesn't just inconvenience riders; it materially affects the system's financial performance and its contractual SLAs with the Toronto Parking Authority.
-
-As the operator, ....... ......... is contractually required to maintain minimum service levels: bike availability at stations, fleet operational percentage, and maintenance response time. Detecting anomalies early and diagnosing them correctly is directly tied to contract compliance and revenue.
 
 ---
 
