@@ -1,0 +1,11 @@
+station_id,station_name,ward,capacity,imbalance_per_day
+7018,Parkdale-High Park Station 10,Parkdale-High Park,15,-5.664835164835165
+7015,Parkdale-High Park Station 7,Parkdale-High Park,31,-5.554945054945055
+7057,University-Rosedale Station 7,University-Rosedale,31,-5.318681318681318
+7034,Davenport Station 4,Davenport,19,-5.252747252747253
+7045,Spadina-Fort York Station 5,Spadina-Fort York,23,-5.252747252747253
+7090,Toronto-Danforth Station 10,Toronto-Danforth,23,-5.252747252747253
+7088,Toronto-Danforth Station 8,Toronto-Danforth,23,-5.21978021978022
+7074,Toronto Centre Station 4,Toronto Centre,15,-5.2032967032967035
+7038,Davenport Station 8,Davenport,19,-5.164835164835165
+7063,Toronto-St. Paul's Station 3,Toronto-St. Paul's,15,-5.076923076923077

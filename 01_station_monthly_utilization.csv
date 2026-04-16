@@ -1,0 +1,709 @@
+station_id,trip_month,trips,station_name,ward,ward_number,latitude,longitude,capacity,has_charging,area_type,opened_date,trips_per_dock
+7001,2025-06,140,Etobicoke North Station 1,Etobicoke North,1,43.736236,-79.561971,23,False,suburban,2023-06-20,6.086956521739131
+7001,2025-07,197,Etobicoke North Station 1,Etobicoke North,1,43.736236,-79.561971,23,False,suburban,2023-06-20,8.565217391304348
+7001,2025-08,187,Etobicoke North Station 1,Etobicoke North,1,43.736236,-79.561971,23,False,suburban,2023-06-20,8.130434782608695
+7001,2025-09,140,Etobicoke North Station 1,Etobicoke North,1,43.736236,-79.561971,23,False,suburban,2023-06-20,6.086956521739131
+7001,2025-10,118,Etobicoke North Station 1,Etobicoke North,1,43.736236,-79.561971,23,False,suburban,2023-06-20,5.130434782608695
+7001,2025-11,61,Etobicoke North Station 1,Etobicoke North,1,43.736236,-79.561971,23,False,suburban,2023-06-20,2.652173913043478
+7002,2025-06,156,Etobicoke North Station 2,Etobicoke North,1,43.729681,-79.59376,15,False,suburban,2020-11-05,10.4
+7002,2025-07,215,Etobicoke North Station 2,Etobicoke North,1,43.729681,-79.59376,15,False,suburban,2020-11-05,14.333333333333334
+7002,2025-08,195,Etobicoke North Station 2,Etobicoke North,1,43.729681,-79.59376,15,False,suburban,2020-11-05,13.0
+7002,2025-09,155,Etobicoke North Station 2,Etobicoke North,1,43.729681,-79.59376,15,False,suburban,2020-11-05,10.333333333333334
+7002,2025-10,119,Etobicoke North Station 2,Etobicoke North,1,43.729681,-79.59376,15,False,suburban,2020-11-05,7.933333333333334
+7002,2025-11,73,Etobicoke North Station 2,Etobicoke North,1,43.729681,-79.59376,15,False,suburban,2020-11-05,4.866666666666666
+7003,2025-06,164,Etobicoke Centre Station 1,Etobicoke Centre,2,43.675011,-79.564285,23,False,suburban,2024-04-03,7.130434782608695
+7003,2025-07,191,Etobicoke Centre Station 1,Etobicoke Centre,2,43.675011,-79.564285,23,False,suburban,2024-04-03,8.304347826086957
+7003,2025-08,217,Etobicoke Centre Station 1,Etobicoke Centre,2,43.675011,-79.564285,23,False,suburban,2024-04-03,9.434782608695652
+7003,2025-09,188,Etobicoke Centre Station 1,Etobicoke Centre,2,43.675011,-79.564285,23,False,suburban,2024-04-03,8.173913043478262
+7003,2025-10,118,Etobicoke Centre Station 1,Etobicoke Centre,2,43.675011,-79.564285,23,False,suburban,2024-04-03,5.130434782608695
+7003,2025-11,73,Etobicoke Centre Station 1,Etobicoke Centre,2,43.675011,-79.564285,23,False,suburban,2024-04-03,3.1739130434782608
+7004,2025-06,160,Etobicoke Centre Station 2,Etobicoke Centre,2,43.694097,-79.536702,19,False,suburban,2018-04-30,8.421052631578947
+7004,2025-07,189,Etobicoke Centre Station 2,Etobicoke Centre,2,43.694097,-79.536702,19,False,suburban,2018-04-30,9.947368421052632
+7004,2025-08,187,Etobicoke Centre Station 2,Etobicoke Centre,2,43.694097,-79.536702,19,False,suburban,2018-04-30,9.842105263157896
+7004,2025-09,158,Etobicoke Centre Station 2,Etobicoke Centre,2,43.694097,-79.536702,19,False,suburban,2018-04-30,8.31578947368421
+7004,2025-10,142,Etobicoke Centre Station 2,Etobicoke Centre,2,43.694097,-79.536702,19,False,suburban,2018-04-30,7.473684210526316
+7004,2025-11,80,Etobicoke Centre Station 2,Etobicoke Centre,2,43.694097,-79.536702,19,False,suburban,2018-04-30,4.2105263157894735
+7005,2025-06,152,Etobicoke-Lakeshore Station 1,Etobicoke-Lakeshore,3,43.634766,-79.505301,23,False,mixed,2021-04-19,6.608695652173913
+7005,2025-07,188,Etobicoke-Lakeshore Station 1,Etobicoke-Lakeshore,3,43.634766,-79.505301,23,False,mixed,2021-04-19,8.173913043478262
+7005,2025-08,164,Etobicoke-Lakeshore Station 1,Etobicoke-Lakeshore,3,43.634766,-79.505301,23,False,mixed,2021-04-19,7.130434782608695
+7005,2025-09,153,Etobicoke-Lakeshore Station 1,Etobicoke-Lakeshore,3,43.634766,-79.505301,23,False,mixed,2021-04-19,6.6521739130434785
+7005,2025-10,131,Etobicoke-Lakeshore Station 1,Etobicoke-Lakeshore,3,43.634766,-79.505301,23,False,mixed,2021-04-19,5.695652173913044
+7005,2025-11,60,Etobicoke-Lakeshore Station 1,Etobicoke-Lakeshore,3,43.634766,-79.505301,23,False,mixed,2021-04-19,2.608695652173913
+7006,2025-06,179,Etobicoke-Lakeshore Station 2,Etobicoke-Lakeshore,3,43.617958,-79.518351,23,False,mixed,2020-08-09,7.782608695652174
+7006,2025-07,189,Etobicoke-Lakeshore Station 2,Etobicoke-Lakeshore,3,43.617958,-79.518351,23,False,mixed,2020-08-09,8.217391304347826
+7006,2025-08,201,Etobicoke-Lakeshore Station 2,Etobicoke-Lakeshore,3,43.617958,-79.518351,23,False,mixed,2020-08-09,8.73913043478261
+7006,2025-09,164,Etobicoke-Lakeshore Station 2,Etobicoke-Lakeshore,3,43.617958,-79.518351,23,False,mixed,2020-08-09,7.130434782608695
+7006,2025-10,136,Etobicoke-Lakeshore Station 2,Etobicoke-Lakeshore,3,43.617958,-79.518351,23,False,mixed,2020-08-09,5.913043478260869
+7006,2025-11,72,Etobicoke-Lakeshore Station 2,Etobicoke-Lakeshore,3,43.617958,-79.518351,23,False,mixed,2020-08-09,3.130434782608696
+7007,2025-06,162,Etobicoke-Lakeshore Station 3,Etobicoke-Lakeshore,3,43.613764,-79.515346,19,False,mixed,2022-06-27,8.526315789473685
+7007,2025-07,204,Etobicoke-Lakeshore Station 3,Etobicoke-Lakeshore,3,43.613764,-79.515346,19,False,mixed,2022-06-27,10.736842105263158
+7007,2025-08,191,Etobicoke-Lakeshore Station 3,Etobicoke-Lakeshore,3,43.613764,-79.515346,19,False,mixed,2022-06-27,10.052631578947368
+7007,2025-09,133,Etobicoke-Lakeshore Station 3,Etobicoke-Lakeshore,3,43.613764,-79.515346,19,False,mixed,2022-06-27,7.0
+7007,2025-10,127,Etobicoke-Lakeshore Station 3,Etobicoke-Lakeshore,3,43.613764,-79.515346,19,False,mixed,2022-06-27,6.684210526315789
+7007,2025-11,71,Etobicoke-Lakeshore Station 3,Etobicoke-Lakeshore,3,43.613764,-79.515346,19,False,mixed,2022-06-27,3.736842105263158
+7008,2025-06,163,Etobicoke-Lakeshore Station 4,Etobicoke-Lakeshore,3,43.623552,-79.514702,31,False,mixed,2019-03-09,5.258064516129032
+7008,2025-07,207,Etobicoke-Lakeshore Station 4,Etobicoke-Lakeshore,3,43.623552,-79.514702,31,False,mixed,2019-03-09,6.67741935483871
+7008,2025-08,227,Etobicoke-Lakeshore Station 4,Etobicoke-Lakeshore,3,43.623552,-79.514702,31,False,mixed,2019-03-09,7.32258064516129
+7008,2025-09,165,Etobicoke-Lakeshore Station 4,Etobicoke-Lakeshore,3,43.623552,-79.514702,31,False,mixed,2019-03-09,5.32258064516129
+7008,2025-10,132,Etobicoke-Lakeshore Station 4,Etobicoke-Lakeshore,3,43.623552,-79.514702,31,False,mixed,2019-03-09,4.258064516129032
+7008,2025-11,70,Etobicoke-Lakeshore Station 4,Etobicoke-Lakeshore,3,43.623552,-79.514702,31,False,mixed,2019-03-09,2.2580645161290325
+7009,2025-06,950,Parkdale-High Park Station 1,Parkdale-High Park,4,43.636394,-79.465698,15,True,urban,2021-09-01,63.333333333333336
+7009,2025-07,1114,Parkdale-High Park Station 1,Parkdale-High Park,4,43.636394,-79.465698,15,True,urban,2021-09-01,74.26666666666667
+7009,2025-08,1213,Parkdale-High Park Station 1,Parkdale-High Park,4,43.636394,-79.465698,15,True,urban,2021-09-01,80.86666666666666
+7009,2025-09,1016,Parkdale-High Park Station 1,Parkdale-High Park,4,43.636394,-79.465698,15,True,urban,2021-09-01,67.73333333333333
+7009,2025-10,803,Parkdale-High Park Station 1,Parkdale-High Park,4,43.636394,-79.465698,15,True,urban,2021-09-01,53.53333333333333
+7009,2025-11,446,Parkdale-High Park Station 1,Parkdale-High Park,4,43.636394,-79.465698,15,True,urban,2021-09-01,29.733333333333334
+7010,2025-06,988,Parkdale-High Park Station 2,Parkdale-High Park,4,43.663266,-79.467468,19,True,urban,2023-01-24,52.0
+7010,2025-07,1162,Parkdale-High Park Station 2,Parkdale-High Park,4,43.663266,-79.467468,19,True,urban,2023-01-24,61.1578947368421
+7010,2025-08,1125,Parkdale-High Park Station 2,Parkdale-High Park,4,43.663266,-79.467468,19,True,urban,2023-01-24,59.21052631578947
+7010,2025-09,1001,Parkdale-High Park Station 2,Parkdale-High Park,4,43.663266,-79.467468,19,True,urban,2023-01-24,52.68421052631579
+7010,2025-10,757,Parkdale-High Park Station 2,Parkdale-High Park,4,43.663266,-79.467468,19,True,urban,2023-01-24,39.8421052631579
+7010,2025-11,460,Parkdale-High Park Station 2,Parkdale-High Park,4,43.663266,-79.467468,19,True,urban,2023-01-24,24.210526315789473
+7011,2025-06,973,Parkdale-High Park Station 3,Parkdale-High Park,4,43.655527,-79.472394,15,True,urban,2015-02-04,64.86666666666666
+7011,2025-07,1219,Parkdale-High Park Station 3,Parkdale-High Park,4,43.655527,-79.472394,15,True,urban,2015-02-04,81.26666666666667
+7011,2025-08,1180,Parkdale-High Park Station 3,Parkdale-High Park,4,43.655527,-79.472394,15,True,urban,2015-02-04,78.66666666666667
+7011,2025-09,1004,Parkdale-High Park Station 3,Parkdale-High Park,4,43.655527,-79.472394,15,True,urban,2015-02-04,66.93333333333334
+7011,2025-10,733,Parkdale-High Park Station 3,Parkdale-High Park,4,43.655527,-79.472394,15,True,urban,2015-02-04,48.86666666666667
+7011,2025-11,445,Parkdale-High Park Station 3,Parkdale-High Park,4,43.655527,-79.472394,15,True,urban,2015-02-04,29.666666666666668
+7012,2025-06,1001,Parkdale-High Park Station 4,Parkdale-High Park,4,43.66228,-79.479649,23,True,urban,2024-06-23,43.52173913043478
+7012,2025-07,1117,Parkdale-High Park Station 4,Parkdale-High Park,4,43.66228,-79.479649,23,True,urban,2024-06-23,48.56521739130435
+7012,2025-08,1193,Parkdale-High Park Station 4,Parkdale-High Park,4,43.66228,-79.479649,23,True,urban,2024-06-23,51.869565217391305
+7012,2025-09,971,Parkdale-High Park Station 4,Parkdale-High Park,4,43.66228,-79.479649,23,True,urban,2024-06-23,42.21739130434783
+7012,2025-10,726,Parkdale-High Park Station 4,Parkdale-High Park,4,43.66228,-79.479649,23,True,urban,2024-06-23,31.565217391304348
+7012,2025-11,469,Parkdale-High Park Station 4,Parkdale-High Park,4,43.66228,-79.479649,23,True,urban,2024-06-23,20.391304347826086
+7013,2025-06,1008,Parkdale-High Park Station 5,Parkdale-High Park,4,43.641238,-79.467292,15,False,urban,2019-04-29,67.2
+7013,2025-07,1137,Parkdale-High Park Station 5,Parkdale-High Park,4,43.641238,-79.467292,15,False,urban,2019-04-29,75.8
+7013,2025-08,1202,Parkdale-High Park Station 5,Parkdale-High Park,4,43.641238,-79.467292,15,False,urban,2019-04-29,80.13333333333334
+7013,2025-09,983,Parkdale-High Park Station 5,Parkdale-High Park,4,43.641238,-79.467292,15,False,urban,2019-04-29,65.53333333333333
+7013,2025-10,735,Parkdale-High Park Station 5,Parkdale-High Park,4,43.641238,-79.467292,15,False,urban,2019-04-29,49.0
+7013,2025-11,448,Parkdale-High Park Station 5,Parkdale-High Park,4,43.641238,-79.467292,15,False,urban,2019-04-29,29.866666666666667
+7014,2025-06,983,Parkdale-High Park Station 6,Parkdale-High Park,4,43.663185,-79.454207,23,False,urban,2016-03-31,42.73913043478261
+7014,2025-07,1160,Parkdale-High Park Station 6,Parkdale-High Park,4,43.663185,-79.454207,23,False,urban,2016-03-31,50.43478260869565
+7014,2025-08,1165,Parkdale-High Park Station 6,Parkdale-High Park,4,43.663185,-79.454207,23,False,urban,2016-03-31,50.65217391304348
+7014,2025-09,956,Parkdale-High Park Station 6,Parkdale-High Park,4,43.663185,-79.454207,23,False,urban,2016-03-31,41.56521739130435
+7014,2025-10,752,Parkdale-High Park Station 6,Parkdale-High Park,4,43.663185,-79.454207,23,False,urban,2016-03-31,32.69565217391305
+7014,2025-11,489,Parkdale-High Park Station 6,Parkdale-High Park,4,43.663185,-79.454207,23,False,urban,2016-03-31,21.26086956521739
+7015,2025-06,1003,Parkdale-High Park Station 7,Parkdale-High Park,4,43.652113,-79.469167,31,False,urban,2015-12-04,32.354838709677416
+7015,2025-07,1187,Parkdale-High Park Station 7,Parkdale-High Park,4,43.652113,-79.469167,31,False,urban,2015-12-04,38.29032258064516
+7015,2025-08,1204,Parkdale-High Park Station 7,Parkdale-High Park,4,43.652113,-79.469167,31,False,urban,2015-12-04,38.83870967741935
+7015,2025-09,1064,Parkdale-High Park Station 7,Parkdale-High Park,4,43.652113,-79.469167,31,False,urban,2015-12-04,34.32258064516129
+7015,2025-10,804,Parkdale-High Park Station 7,Parkdale-High Park,4,43.652113,-79.469167,31,False,urban,2015-12-04,25.93548387096774
+7015,2025-11,446,Parkdale-High Park Station 7,Parkdale-High Park,4,43.652113,-79.469167,31,False,urban,2015-12-04,14.387096774193548
+7016,2025-06,987,Parkdale-High Park Station 8,Parkdale-High Park,4,43.651191,-79.46653,31,False,urban,2016-05-07,31.838709677419356
+7016,2025-07,1169,Parkdale-High Park Station 8,Parkdale-High Park,4,43.651191,-79.46653,31,False,urban,2016-05-07,37.70967741935484
+7016,2025-08,1221,Parkdale-High Park Station 8,Parkdale-High Park,4,43.651191,-79.46653,31,False,urban,2016-05-07,39.38709677419355
+7016,2025-09,1015,Parkdale-High Park Station 8,Parkdale-High Park,4,43.651191,-79.46653,31,False,urban,2016-05-07,32.74193548387097
+7016,2025-10,754,Parkdale-High Park Station 8,Parkdale-High Park,4,43.651191,-79.46653,31,False,urban,2016-05-07,24.322580645161292
+7016,2025-11,453,Parkdale-High Park Station 8,Parkdale-High Park,4,43.651191,-79.46653,31,False,urban,2016-05-07,14.612903225806452
+7017,2025-06,1013,Parkdale-High Park Station 9,Parkdale-High Park,4,43.639228,-79.457912,15,False,urban,2018-09-29,67.53333333333333
+7017,2025-07,1136,Parkdale-High Park Station 9,Parkdale-High Park,4,43.639228,-79.457912,15,False,urban,2018-09-29,75.73333333333333
+7017,2025-08,1237,Parkdale-High Park Station 9,Parkdale-High Park,4,43.639228,-79.457912,15,False,urban,2018-09-29,82.46666666666667
+7017,2025-09,1044,Parkdale-High Park Station 9,Parkdale-High Park,4,43.639228,-79.457912,15,False,urban,2018-09-29,69.6
+7017,2025-10,742,Parkdale-High Park Station 9,Parkdale-High Park,4,43.639228,-79.457912,15,False,urban,2018-09-29,49.46666666666667
+7017,2025-11,441,Parkdale-High Park Station 9,Parkdale-High Park,4,43.639228,-79.457912,15,False,urban,2018-09-29,29.4
+7018,2025-06,980,Parkdale-High Park Station 10,Parkdale-High Park,4,43.646846,-79.47826,15,True,urban,2016-01-27,65.33333333333333
+7018,2025-07,1273,Parkdale-High Park Station 10,Parkdale-High Park,4,43.646846,-79.47826,15,True,urban,2016-01-27,84.86666666666666
+7018,2025-08,1178,Parkdale-High Park Station 10,Parkdale-High Park,4,43.646846,-79.47826,15,True,urban,2016-01-27,78.53333333333333
+7018,2025-09,1007,Parkdale-High Park Station 10,Parkdale-High Park,4,43.646846,-79.47826,15,True,urban,2016-01-27,67.13333333333334
+7018,2025-10,791,Parkdale-High Park Station 10,Parkdale-High Park,4,43.646846,-79.47826,15,True,urban,2016-01-27,52.733333333333334
+7018,2025-11,494,Parkdale-High Park Station 10,Parkdale-High Park,4,43.646846,-79.47826,15,True,urban,2016-01-27,32.93333333333333
+7019,2025-06,159,York South-Weston Station 1,York South-Weston,5,43.70687,-79.469149,15,False,mixed,2021-03-28,10.6
+7019,2025-07,209,York South-Weston Station 1,York South-Weston,5,43.70687,-79.469149,15,False,mixed,2021-03-28,13.933333333333334
+7019,2025-08,217,York South-Weston Station 1,York South-Weston,5,43.70687,-79.469149,15,False,mixed,2021-03-28,14.466666666666667
+7019,2025-09,164,York South-Weston Station 1,York South-Weston,5,43.70687,-79.469149,15,False,mixed,2021-03-28,10.933333333333334
+7019,2025-10,121,York South-Weston Station 1,York South-Weston,5,43.70687,-79.469149,15,False,mixed,2021-03-28,8.066666666666666
+7019,2025-11,67,York South-Weston Station 1,York South-Weston,5,43.70687,-79.469149,15,False,mixed,2021-03-28,4.466666666666667
+7020,2025-06,172,York South-Weston Station 2,York South-Weston,5,43.704532,-79.463402,27,False,mixed,2017-02-18,6.37037037037037
+7020,2025-07,186,York South-Weston Station 2,York South-Weston,5,43.704532,-79.463402,27,False,mixed,2017-02-18,6.888888888888889
+7020,2025-08,189,York South-Weston Station 2,York South-Weston,5,43.704532,-79.463402,27,False,mixed,2017-02-18,7.0
+7020,2025-09,164,York South-Weston Station 2,York South-Weston,5,43.704532,-79.463402,27,False,mixed,2017-02-18,6.074074074074074
+7020,2025-10,115,York South-Weston Station 2,York South-Weston,5,43.704532,-79.463402,27,False,mixed,2017-02-18,4.2592592592592595
+7020,2025-11,73,York South-Weston Station 2,York South-Weston,5,43.704532,-79.463402,27,False,mixed,2017-02-18,2.7037037037037037
+7021,2025-06,173,York South-Weston Station 3,York South-Weston,5,43.694927,-79.497458,19,False,mixed,2019-10-18,9.105263157894736
+7021,2025-07,207,York South-Weston Station 3,York South-Weston,5,43.694927,-79.497458,19,False,mixed,2019-10-18,10.894736842105264
+7021,2025-08,206,York South-Weston Station 3,York South-Weston,5,43.694927,-79.497458,19,False,mixed,2019-10-18,10.842105263157896
+7021,2025-09,163,York South-Weston Station 3,York South-Weston,5,43.694927,-79.497458,19,False,mixed,2019-10-18,8.578947368421053
+7021,2025-10,134,York South-Weston Station 3,York South-Weston,5,43.694927,-79.497458,19,False,mixed,2019-10-18,7.052631578947368
+7021,2025-11,80,York South-Weston Station 3,York South-Weston,5,43.694927,-79.497458,19,False,mixed,2019-10-18,4.2105263157894735
+7022,2025-06,174,York South-Weston Station 4,York South-Weston,5,43.704978,-79.476348,19,False,mixed,2019-04-20,9.157894736842104
+7022,2025-07,194,York South-Weston Station 4,York South-Weston,5,43.704978,-79.476348,19,False,mixed,2019-04-20,10.210526315789474
+7022,2025-08,195,York South-Weston Station 4,York South-Weston,5,43.704978,-79.476348,19,False,mixed,2019-04-20,10.263157894736842
+7022,2025-09,150,York South-Weston Station 4,York South-Weston,5,43.704978,-79.476348,19,False,mixed,2019-04-20,7.894736842105263
+7022,2025-10,137,York South-Weston Station 4,York South-Weston,5,43.704978,-79.476348,19,False,mixed,2019-04-20,7.2105263157894735
+7022,2025-11,69,York South-Weston Station 4,York South-Weston,5,43.704978,-79.476348,19,False,mixed,2019-04-20,3.6315789473684212
+7023,2025-06,164,York Centre Station 1,York Centre,6,43.749166,-79.485216,23,False,suburban,2017-10-25,7.130434782608695
+7023,2025-07,200,York Centre Station 1,York Centre,6,43.749166,-79.485216,23,False,suburban,2017-10-25,8.695652173913043
+7023,2025-08,209,York Centre Station 1,York Centre,6,43.749166,-79.485216,23,False,suburban,2017-10-25,9.08695652173913
+7023,2025-09,151,York Centre Station 1,York Centre,6,43.749166,-79.485216,23,False,suburban,2017-10-25,6.565217391304348
+7023,2025-10,138,York Centre Station 1,York Centre,6,43.749166,-79.485216,23,False,suburban,2017-10-25,6.0
+7023,2025-11,68,York Centre Station 1,York Centre,6,43.749166,-79.485216,23,False,suburban,2017-10-25,2.9565217391304346
+7024,2025-06,169,York Centre Station 2,York Centre,6,43.751838,-79.459161,19,False,suburban,2016-01-28,8.894736842105264
+7024,2025-07,193,York Centre Station 2,York Centre,6,43.751838,-79.459161,19,False,suburban,2016-01-28,10.157894736842104
+7024,2025-08,188,York Centre Station 2,York Centre,6,43.751838,-79.459161,19,False,suburban,2016-01-28,9.894736842105264
+7024,2025-09,156,York Centre Station 2,York Centre,6,43.751838,-79.459161,19,False,suburban,2016-01-28,8.210526315789474
+7024,2025-10,126,York Centre Station 2,York Centre,6,43.751838,-79.459161,19,False,suburban,2016-01-28,6.631578947368421
+7024,2025-11,78,York Centre Station 2,York Centre,6,43.751838,-79.459161,19,False,suburban,2016-01-28,4.105263157894737
+7025,2025-06,143,Humber River-Black Creek Station 1,Humber River-Black Creek,7,43.74632,-79.535564,19,False,suburban,2024-12-25,7.526315789473684
+7025,2025-07,187,Humber River-Black Creek Station 1,Humber River-Black Creek,7,43.74632,-79.535564,19,False,suburban,2024-12-25,9.842105263157896
+7025,2025-08,189,Humber River-Black Creek Station 1,Humber River-Black Creek,7,43.74632,-79.535564,19,False,suburban,2024-12-25,9.947368421052632
+7025,2025-09,170,Humber River-Black Creek Station 1,Humber River-Black Creek,7,43.74632,-79.535564,19,False,suburban,2024-12-25,8.947368421052632
+7025,2025-10,123,Humber River-Black Creek Station 1,Humber River-Black Creek,7,43.74632,-79.535564,19,False,suburban,2024-12-25,6.473684210526316
+7025,2025-11,74,Humber River-Black Creek Station 1,Humber River-Black Creek,7,43.74632,-79.535564,19,False,suburban,2024-12-25,3.8947368421052633
+7026,2025-06,161,Humber River-Black Creek Station 2,Humber River-Black Creek,7,43.751873,-79.520985,23,False,suburban,2020-04-07,7.0
+7026,2025-07,186,Humber River-Black Creek Station 2,Humber River-Black Creek,7,43.751873,-79.520985,23,False,suburban,2020-04-07,8.08695652173913
+7026,2025-08,181,Humber River-Black Creek Station 2,Humber River-Black Creek,7,43.751873,-79.520985,23,False,suburban,2020-04-07,7.869565217391305
+7026,2025-09,167,Humber River-Black Creek Station 2,Humber River-Black Creek,7,43.751873,-79.520985,23,False,suburban,2020-04-07,7.260869565217392
+7026,2025-10,120,Humber River-Black Creek Station 2,Humber River-Black Creek,7,43.751873,-79.520985,23,False,suburban,2020-04-07,5.217391304347826
+7026,2025-11,61,Humber River-Black Creek Station 2,Humber River-Black Creek,7,43.751873,-79.520985,23,False,suburban,2020-04-07,2.652173913043478
+7027,2025-06,143,Eglinton-Lawrence Station 1,Eglinton-Lawrence,8,43.732227,-79.440028,19,False,mixed,2023-11-17,7.526315789473684
+7027,2025-07,192,Eglinton-Lawrence Station 1,Eglinton-Lawrence,8,43.732227,-79.440028,19,False,mixed,2023-11-17,10.105263157894736
+7027,2025-08,177,Eglinton-Lawrence Station 1,Eglinton-Lawrence,8,43.732227,-79.440028,19,False,mixed,2023-11-17,9.31578947368421
+7027,2025-09,185,Eglinton-Lawrence Station 1,Eglinton-Lawrence,8,43.732227,-79.440028,19,False,mixed,2023-11-17,9.736842105263158
+7027,2025-10,141,Eglinton-Lawrence Station 1,Eglinton-Lawrence,8,43.732227,-79.440028,19,False,mixed,2023-11-17,7.421052631578948
+7027,2025-11,67,Eglinton-Lawrence Station 1,Eglinton-Lawrence,8,43.732227,-79.440028,19,False,mixed,2023-11-17,3.526315789473684
+7028,2025-06,156,Eglinton-Lawrence Station 2,Eglinton-Lawrence,8,43.711092,-79.412286,23,False,mixed,2024-01-28,6.782608695652174
+7028,2025-07,220,Eglinton-Lawrence Station 2,Eglinton-Lawrence,8,43.711092,-79.412286,23,False,mixed,2024-01-28,9.565217391304348
+7028,2025-08,200,Eglinton-Lawrence Station 2,Eglinton-Lawrence,8,43.711092,-79.412286,23,False,mixed,2024-01-28,8.695652173913043
+7028,2025-09,174,Eglinton-Lawrence Station 2,Eglinton-Lawrence,8,43.711092,-79.412286,23,False,mixed,2024-01-28,7.565217391304348
+7028,2025-10,128,Eglinton-Lawrence Station 2,Eglinton-Lawrence,8,43.711092,-79.412286,23,False,mixed,2024-01-28,5.565217391304348
+7028,2025-11,85,Eglinton-Lawrence Station 2,Eglinton-Lawrence,8,43.711092,-79.412286,23,False,mixed,2024-01-28,3.6956521739130435
+7029,2025-06,182,Eglinton-Lawrence Station 3,Eglinton-Lawrence,8,43.709837,-79.412812,27,False,mixed,2023-05-19,6.7407407407407405
+7029,2025-07,171,Eglinton-Lawrence Station 3,Eglinton-Lawrence,8,43.709837,-79.412812,27,False,mixed,2023-05-19,6.333333333333333
+7029,2025-08,209,Eglinton-Lawrence Station 3,Eglinton-Lawrence,8,43.709837,-79.412812,27,False,mixed,2023-05-19,7.7407407407407405
+7029,2025-09,151,Eglinton-Lawrence Station 3,Eglinton-Lawrence,8,43.709837,-79.412812,27,False,mixed,2023-05-19,5.592592592592593
+7029,2025-10,121,Eglinton-Lawrence Station 3,Eglinton-Lawrence,8,43.709837,-79.412812,27,False,mixed,2023-05-19,4.481481481481482
+7029,2025-11,89,Eglinton-Lawrence Station 3,Eglinton-Lawrence,8,43.709837,-79.412812,27,False,mixed,2023-05-19,3.2962962962962963
+7030,2025-06,177,Eglinton-Lawrence Station 4,Eglinton-Lawrence,8,43.731144,-79.417853,15,False,mixed,2020-06-04,11.8
+7030,2025-07,194,Eglinton-Lawrence Station 4,Eglinton-Lawrence,8,43.731144,-79.417853,15,False,mixed,2020-06-04,12.933333333333334
+7030,2025-08,209,Eglinton-Lawrence Station 4,Eglinton-Lawrence,8,43.731144,-79.417853,15,False,mixed,2020-06-04,13.933333333333334
+7030,2025-09,171,Eglinton-Lawrence Station 4,Eglinton-Lawrence,8,43.731144,-79.417853,15,False,mixed,2020-06-04,11.4
+7030,2025-10,115,Eglinton-Lawrence Station 4,Eglinton-Lawrence,8,43.731144,-79.417853,15,False,mixed,2020-06-04,7.666666666666667
+7030,2025-11,76,Eglinton-Lawrence Station 4,Eglinton-Lawrence,8,43.731144,-79.417853,15,False,mixed,2020-06-04,5.066666666666666
+7031,2025-06,988,Davenport Station 1,Davenport,9,43.67118,-79.427702,27,True,urban,2024-01-10,36.592592592592595
+7031,2025-07,1176,Davenport Station 1,Davenport,9,43.67118,-79.427702,27,True,urban,2024-01-10,43.55555555555556
+7031,2025-08,1164,Davenport Station 1,Davenport,9,43.67118,-79.427702,27,True,urban,2024-01-10,43.111111111111114
+7031,2025-09,1014,Davenport Station 1,Davenport,9,43.67118,-79.427702,27,True,urban,2024-01-10,37.55555555555556
+7031,2025-10,758,Davenport Station 1,Davenport,9,43.67118,-79.427702,27,True,urban,2024-01-10,28.074074074074073
+7031,2025-11,464,Davenport Station 1,Davenport,9,43.67118,-79.427702,27,True,urban,2024-01-10,17.185185185185187
+7032,2025-06,982,Davenport Station 2,Davenport,9,43.663164,-79.434092,15,True,urban,2018-07-06,65.46666666666667
+7032,2025-07,1188,Davenport Station 2,Davenport,9,43.663164,-79.434092,15,True,urban,2018-07-06,79.2
+7032,2025-08,1189,Davenport Station 2,Davenport,9,43.663164,-79.434092,15,True,urban,2018-07-06,79.26666666666667
+7032,2025-09,986,Davenport Station 2,Davenport,9,43.663164,-79.434092,15,True,urban,2018-07-06,65.73333333333333
+7032,2025-10,772,Davenport Station 2,Davenport,9,43.663164,-79.434092,15,True,urban,2018-07-06,51.46666666666667
+7032,2025-11,472,Davenport Station 2,Davenport,9,43.663164,-79.434092,15,True,urban,2018-07-06,31.466666666666665
+7033,2025-06,1004,Davenport Station 3,Davenport,9,43.655209,-79.43957,19,True,urban,2018-06-11,52.8421052631579
+7033,2025-07,1199,Davenport Station 3,Davenport,9,43.655209,-79.43957,19,True,urban,2018-06-11,63.10526315789474
+7033,2025-08,1238,Davenport Station 3,Davenport,9,43.655209,-79.43957,19,True,urban,2018-06-11,65.15789473684211
+7033,2025-09,1001,Davenport Station 3,Davenport,9,43.655209,-79.43957,19,True,urban,2018-06-11,52.68421052631579
+7033,2025-10,748,Davenport Station 3,Davenport,9,43.655209,-79.43957,19,True,urban,2018-06-11,39.36842105263158
+7033,2025-11,478,Davenport Station 3,Davenport,9,43.655209,-79.43957,19,True,urban,2018-06-11,25.157894736842106
+7034,2025-06,1004,Davenport Station 4,Davenport,9,43.665128,-79.422284,19,True,urban,2024-01-18,52.8421052631579
+7034,2025-07,1189,Davenport Station 4,Davenport,9,43.665128,-79.422284,19,True,urban,2024-01-18,62.578947368421055
+7034,2025-08,1250,Davenport Station 4,Davenport,9,43.665128,-79.422284,19,True,urban,2024-01-18,65.78947368421052
+7034,2025-09,952,Davenport Station 4,Davenport,9,43.665128,-79.422284,19,True,urban,2024-01-18,50.10526315789474
+7034,2025-10,784,Davenport Station 4,Davenport,9,43.665128,-79.422284,19,True,urban,2024-01-18,41.26315789473684
+7034,2025-11,445,Davenport Station 4,Davenport,9,43.665128,-79.422284,19,True,urban,2024-01-18,23.42105263157895
+7035,2025-06,1018,Davenport Station 5,Davenport,9,43.667115,-79.457404,19,True,urban,2024-06-19,53.578947368421055
+7035,2025-07,1240,Davenport Station 5,Davenport,9,43.667115,-79.457404,19,True,urban,2024-06-19,65.26315789473684
+7035,2025-08,1212,Davenport Station 5,Davenport,9,43.667115,-79.457404,19,True,urban,2024-06-19,63.78947368421053
+7035,2025-09,1006,Davenport Station 5,Davenport,9,43.667115,-79.457404,19,True,urban,2024-06-19,52.94736842105263
+7035,2025-10,735,Davenport Station 5,Davenport,9,43.667115,-79.457404,19,True,urban,2024-06-19,38.68421052631579
+7035,2025-11,479,Davenport Station 5,Davenport,9,43.667115,-79.457404,19,True,urban,2024-06-19,25.210526315789473
+7036,2025-06,1001,Davenport Station 6,Davenport,9,43.676368,-79.454077,31,True,urban,2015-01-02,32.29032258064516
+7036,2025-07,1206,Davenport Station 6,Davenport,9,43.676368,-79.454077,31,True,urban,2015-01-02,38.903225806451616
+7036,2025-08,1203,Davenport Station 6,Davenport,9,43.676368,-79.454077,31,True,urban,2015-01-02,38.806451612903224
+7036,2025-09,1005,Davenport Station 6,Davenport,9,43.676368,-79.454077,31,True,urban,2015-01-02,32.41935483870968
+7036,2025-10,774,Davenport Station 6,Davenport,9,43.676368,-79.454077,31,True,urban,2015-01-02,24.967741935483872
+7036,2025-11,455,Davenport Station 6,Davenport,9,43.676368,-79.454077,31,True,urban,2015-01-02,14.67741935483871
+7037,2025-06,986,Davenport Station 7,Davenport,9,43.67008,-79.457941,19,False,urban,2024-07-06,51.89473684210526
+7037,2025-07,1202,Davenport Station 7,Davenport,9,43.67008,-79.457941,19,False,urban,2024-07-06,63.26315789473684
+7037,2025-08,1175,Davenport Station 7,Davenport,9,43.67008,-79.457941,19,False,urban,2024-07-06,61.8421052631579
+7037,2025-09,1017,Davenport Station 7,Davenport,9,43.67008,-79.457941,19,False,urban,2024-07-06,53.526315789473685
+7037,2025-10,785,Davenport Station 7,Davenport,9,43.67008,-79.457941,19,False,urban,2024-07-06,41.31578947368421
+7037,2025-11,462,Davenport Station 7,Davenport,9,43.67008,-79.457941,19,False,urban,2024-07-06,24.31578947368421
+7038,2025-06,1017,Davenport Station 8,Davenport,9,43.675421,-79.438763,19,False,urban,2021-04-13,53.526315789473685
+7038,2025-07,1229,Davenport Station 8,Davenport,9,43.675421,-79.438763,19,False,urban,2021-04-13,64.6842105263158
+7038,2025-08,1215,Davenport Station 8,Davenport,9,43.675421,-79.438763,19,False,urban,2021-04-13,63.94736842105263
+7038,2025-09,1001,Davenport Station 8,Davenport,9,43.675421,-79.438763,19,False,urban,2021-04-13,52.68421052631579
+7038,2025-10,823,Davenport Station 8,Davenport,9,43.675421,-79.438763,19,False,urban,2021-04-13,43.31578947368421
+7038,2025-11,456,Davenport Station 8,Davenport,9,43.675421,-79.438763,19,False,urban,2021-04-13,24.0
+7039,2025-06,967,Davenport Station 9,Davenport,9,43.675164,-79.429535,19,False,urban,2021-05-16,50.89473684210526
+7039,2025-07,1173,Davenport Station 9,Davenport,9,43.675164,-79.429535,19,False,urban,2021-05-16,61.73684210526316
+7039,2025-08,1219,Davenport Station 9,Davenport,9,43.675164,-79.429535,19,False,urban,2021-05-16,64.15789473684211
+7039,2025-09,995,Davenport Station 9,Davenport,9,43.675164,-79.429535,19,False,urban,2021-05-16,52.36842105263158
+7039,2025-10,719,Davenport Station 9,Davenport,9,43.675164,-79.429535,19,False,urban,2021-05-16,37.8421052631579
+7039,2025-11,502,Davenport Station 9,Davenport,9,43.675164,-79.429535,19,False,urban,2021-05-16,26.42105263157895
+7040,2025-06,1021,Davenport Station 10,Davenport,9,43.669109,-79.420663,19,False,urban,2020-12-31,53.73684210526316
+7040,2025-07,1146,Davenport Station 10,Davenport,9,43.669109,-79.420663,19,False,urban,2020-12-31,60.31578947368421
+7040,2025-08,1216,Davenport Station 10,Davenport,9,43.669109,-79.420663,19,False,urban,2020-12-31,64.0
+7040,2025-09,1032,Davenport Station 10,Davenport,9,43.669109,-79.420663,19,False,urban,2020-12-31,54.31578947368421
+7040,2025-10,722,Davenport Station 10,Davenport,9,43.669109,-79.420663,19,False,urban,2020-12-31,38.0
+7040,2025-11,468,Davenport Station 10,Davenport,9,43.669109,-79.420663,19,False,urban,2020-12-31,24.63157894736842
+7041,2025-06,992,Spadina-Fort York Station 1,Spadina-Fort York,10,43.650059,-79.407169,15,True,urban,2016-10-21,66.13333333333334
+7041,2025-07,1195,Spadina-Fort York Station 1,Spadina-Fort York,10,43.650059,-79.407169,15,True,urban,2016-10-21,79.66666666666667
+7041,2025-08,1192,Spadina-Fort York Station 1,Spadina-Fort York,10,43.650059,-79.407169,15,True,urban,2016-10-21,79.46666666666667
+7041,2025-09,994,Spadina-Fort York Station 1,Spadina-Fort York,10,43.650059,-79.407169,15,True,urban,2016-10-21,66.26666666666667
+7041,2025-10,782,Spadina-Fort York Station 1,Spadina-Fort York,10,43.650059,-79.407169,15,True,urban,2016-10-21,52.13333333333333
+7041,2025-11,445,Spadina-Fort York Station 1,Spadina-Fort York,10,43.650059,-79.407169,15,True,urban,2016-10-21,29.666666666666668
+7042,2025-06,1020,Spadina-Fort York Station 2,Spadina-Fort York,10,43.634779,-79.41119,23,False,urban,2023-10-25,44.34782608695652
+7042,2025-07,1156,Spadina-Fort York Station 2,Spadina-Fort York,10,43.634779,-79.41119,23,False,urban,2023-10-25,50.26086956521739
+7042,2025-08,1217,Spadina-Fort York Station 2,Spadina-Fort York,10,43.634779,-79.41119,23,False,urban,2023-10-25,52.91304347826087
+7042,2025-09,966,Spadina-Fort York Station 2,Spadina-Fort York,10,43.634779,-79.41119,23,False,urban,2023-10-25,42.0
+7042,2025-10,772,Spadina-Fort York Station 2,Spadina-Fort York,10,43.634779,-79.41119,23,False,urban,2023-10-25,33.56521739130435
+7042,2025-11,468,Spadina-Fort York Station 2,Spadina-Fort York,10,43.634779,-79.41119,23,False,urban,2023-10-25,20.347826086956523
+7043,2025-06,1071,Spadina-Fort York Station 3,Spadina-Fort York,10,43.644355,-79.413025,23,True,urban,2021-07-13,46.56521739130435
+7043,2025-07,1164,Spadina-Fort York Station 3,Spadina-Fort York,10,43.644355,-79.413025,23,True,urban,2021-07-13,50.608695652173914
+7043,2025-08,1247,Spadina-Fort York Station 3,Spadina-Fort York,10,43.644355,-79.413025,23,True,urban,2021-07-13,54.21739130434783
+7043,2025-09,956,Spadina-Fort York Station 3,Spadina-Fort York,10,43.644355,-79.413025,23,True,urban,2021-07-13,41.56521739130435
+7043,2025-10,737,Spadina-Fort York Station 3,Spadina-Fort York,10,43.644355,-79.413025,23,True,urban,2021-07-13,32.04347826086956
+7043,2025-11,460,Spadina-Fort York Station 3,Spadina-Fort York,10,43.644355,-79.413025,23,True,urban,2021-07-13,20.0
+7044,2025-06,1003,Spadina-Fort York Station 4,Spadina-Fort York,10,43.650131,-79.392972,23,True,urban,2018-12-09,43.608695652173914
+7044,2025-07,1149,Spadina-Fort York Station 4,Spadina-Fort York,10,43.650131,-79.392972,23,True,urban,2018-12-09,49.95652173913044
+7044,2025-08,1198,Spadina-Fort York Station 4,Spadina-Fort York,10,43.650131,-79.392972,23,True,urban,2018-12-09,52.08695652173913
+7044,2025-09,980,Spadina-Fort York Station 4,Spadina-Fort York,10,43.650131,-79.392972,23,True,urban,2018-12-09,42.608695652173914
+7044,2025-10,728,Spadina-Fort York Station 4,Spadina-Fort York,10,43.650131,-79.392972,23,True,urban,2018-12-09,31.652173913043477
+7044,2025-11,430,Spadina-Fort York Station 4,Spadina-Fort York,10,43.650131,-79.392972,23,True,urban,2018-12-09,18.695652173913043
+7045,2025-06,1047,Spadina-Fort York Station 5,Spadina-Fort York,10,43.65132,-79.409682,23,False,urban,2017-10-13,45.52173913043478
+7045,2025-07,1214,Spadina-Fort York Station 5,Spadina-Fort York,10,43.65132,-79.409682,23,False,urban,2017-10-13,52.78260869565217
+7045,2025-08,1238,Spadina-Fort York Station 5,Spadina-Fort York,10,43.65132,-79.409682,23,False,urban,2017-10-13,53.82608695652174
+7045,2025-09,974,Spadina-Fort York Station 5,Spadina-Fort York,10,43.65132,-79.409682,23,False,urban,2017-10-13,42.34782608695652
+7045,2025-10,741,Spadina-Fort York Station 5,Spadina-Fort York,10,43.65132,-79.409682,23,False,urban,2017-10-13,32.21739130434783
+7045,2025-11,489,Spadina-Fort York Station 5,Spadina-Fort York,10,43.65132,-79.409682,23,False,urban,2017-10-13,21.26086956521739
+7046,2025-06,1025,Spadina-Fort York Station 6,Spadina-Fort York,10,43.640499,-79.409567,31,False,urban,2016-03-28,33.064516129032256
+7046,2025-07,1218,Spadina-Fort York Station 6,Spadina-Fort York,10,43.640499,-79.409567,31,False,urban,2016-03-28,39.29032258064516
+7046,2025-08,1195,Spadina-Fort York Station 6,Spadina-Fort York,10,43.640499,-79.409567,31,False,urban,2016-03-28,38.54838709677419
+7046,2025-09,1033,Spadina-Fort York Station 6,Spadina-Fort York,10,43.640499,-79.409567,31,False,urban,2016-03-28,33.32258064516129
+7046,2025-10,758,Spadina-Fort York Station 6,Spadina-Fort York,10,43.640499,-79.409567,31,False,urban,2016-03-28,24.451612903225808
+7046,2025-11,472,Spadina-Fort York Station 6,Spadina-Fort York,10,43.640499,-79.409567,31,False,urban,2016-03-28,15.225806451612904
+7047,2025-06,1034,Spadina-Fort York Station 7,Spadina-Fort York,10,43.652013,-79.394676,19,True,urban,2022-11-03,54.421052631578945
+7047,2025-07,1105,Spadina-Fort York Station 7,Spadina-Fort York,10,43.652013,-79.394676,19,True,urban,2022-11-03,58.1578947368421
+7047,2025-08,1156,Spadina-Fort York Station 7,Spadina-Fort York,10,43.652013,-79.394676,19,True,urban,2022-11-03,60.8421052631579
+7047,2025-09,1014,Spadina-Fort York Station 7,Spadina-Fort York,10,43.652013,-79.394676,19,True,urban,2022-11-03,53.36842105263158
+7047,2025-10,774,Spadina-Fort York Station 7,Spadina-Fort York,10,43.652013,-79.394676,19,True,urban,2022-11-03,40.73684210526316
+7047,2025-11,441,Spadina-Fort York Station 7,Spadina-Fort York,10,43.652013,-79.394676,19,True,urban,2022-11-03,23.210526315789473
+7048,2025-06,989,Spadina-Fort York Station 8,Spadina-Fort York,10,43.6504,-79.385747,19,False,urban,2016-09-19,52.05263157894737
+7048,2025-07,1174,Spadina-Fort York Station 8,Spadina-Fort York,10,43.6504,-79.385747,19,False,urban,2016-09-19,61.78947368421053
+7048,2025-08,1232,Spadina-Fort York Station 8,Spadina-Fort York,10,43.6504,-79.385747,19,False,urban,2016-09-19,64.84210526315789
+7048,2025-09,947,Spadina-Fort York Station 8,Spadina-Fort York,10,43.6504,-79.385747,19,False,urban,2016-09-19,49.8421052631579
+7048,2025-10,748,Spadina-Fort York Station 8,Spadina-Fort York,10,43.6504,-79.385747,19,False,urban,2016-09-19,39.36842105263158
+7048,2025-11,472,Spadina-Fort York Station 8,Spadina-Fort York,10,43.6504,-79.385747,19,False,urban,2016-09-19,24.842105263157894
+7049,2025-06,1028,Spadina-Fort York Station 9,Spadina-Fort York,10,43.627524,-79.413535,27,False,urban,2024-01-12,38.074074074074076
+7049,2025-07,1119,Spadina-Fort York Station 9,Spadina-Fort York,10,43.627524,-79.413535,27,False,urban,2024-01-12,41.44444444444444
+7049,2025-08,1104,Spadina-Fort York Station 9,Spadina-Fort York,10,43.627524,-79.413535,27,False,urban,2024-01-12,40.888888888888886
+7049,2025-09,1012,Spadina-Fort York Station 9,Spadina-Fort York,10,43.627524,-79.413535,27,False,urban,2024-01-12,37.48148148148148
+7049,2025-10,755,Spadina-Fort York Station 9,Spadina-Fort York,10,43.627524,-79.413535,27,False,urban,2024-01-12,27.962962962962962
+7049,2025-11,474,Spadina-Fort York Station 9,Spadina-Fort York,10,43.627524,-79.413535,27,False,urban,2024-01-12,17.555555555555557
+7050,2025-06,966,Spadina-Fort York Station 10,Spadina-Fort York,10,43.636168,-79.382395,31,True,urban,2017-05-27,31.161290322580644
+7050,2025-07,1111,Spadina-Fort York Station 10,Spadina-Fort York,10,43.636168,-79.382395,31,True,urban,2017-05-27,35.83870967741935
+7050,2025-08,1181,Spadina-Fort York Station 10,Spadina-Fort York,10,43.636168,-79.382395,31,True,urban,2017-05-27,38.096774193548384
+7050,2025-09,1004,Spadina-Fort York Station 10,Spadina-Fort York,10,43.636168,-79.382395,31,True,urban,2017-05-27,32.38709677419355
+7050,2025-10,769,Spadina-Fort York Station 10,Spadina-Fort York,10,43.636168,-79.382395,31,True,urban,2017-05-27,24.806451612903224
+7050,2025-11,480,Spadina-Fort York Station 10,Spadina-Fort York,10,43.636168,-79.382395,31,True,urban,2017-05-27,15.483870967741936
+7051,2025-06,990,University-Rosedale Station 1,University-Rosedale,11,43.671462,-79.382324,23,True,urban,2015-06-10,43.04347826086956
+7051,2025-07,1183,University-Rosedale Station 1,University-Rosedale,11,43.671462,-79.382324,23,True,urban,2015-06-10,51.43478260869565
+7051,2025-08,1164,University-Rosedale Station 1,University-Rosedale,11,43.671462,-79.382324,23,True,urban,2015-06-10,50.608695652173914
+7051,2025-09,971,University-Rosedale Station 1,University-Rosedale,11,43.671462,-79.382324,23,True,urban,2015-06-10,42.21739130434783
+7051,2025-10,743,University-Rosedale Station 1,University-Rosedale,11,43.671462,-79.382324,23,True,urban,2015-06-10,32.30434782608695
+7051,2025-11,477,University-Rosedale Station 1,University-Rosedale,11,43.671462,-79.382324,23,True,urban,2015-06-10,20.73913043478261
+7052,2025-06,1017,University-Rosedale Station 2,University-Rosedale,11,43.655542,-79.390244,15,True,urban,2018-11-16,67.8
+7052,2025-07,1134,University-Rosedale Station 2,University-Rosedale,11,43.655542,-79.390244,15,True,urban,2018-11-16,75.6
+7052,2025-08,1104,University-Rosedale Station 2,University-Rosedale,11,43.655542,-79.390244,15,True,urban,2018-11-16,73.6
+7052,2025-09,975,University-Rosedale Station 2,University-Rosedale,11,43.655542,-79.390244,15,True,urban,2018-11-16,65.0
+7052,2025-10,777,University-Rosedale Station 2,University-Rosedale,11,43.655542,-79.390244,15,True,urban,2018-11-16,51.8
+7052,2025-11,447,University-Rosedale Station 2,University-Rosedale,11,43.655542,-79.390244,15,True,urban,2018-11-16,29.8
+7053,2025-06,1008,University-Rosedale Station 3,University-Rosedale,11,43.680477,-79.383695,23,True,urban,2016-04-14,43.82608695652174
+7053,2025-07,1166,University-Rosedale Station 3,University-Rosedale,11,43.680477,-79.383695,23,True,urban,2016-04-14,50.69565217391305
+7053,2025-08,1182,University-Rosedale Station 3,University-Rosedale,11,43.680477,-79.383695,23,True,urban,2016-04-14,51.391304347826086
+7053,2025-09,928,University-Rosedale Station 3,University-Rosedale,11,43.680477,-79.383695,23,True,urban,2016-04-14,40.34782608695652
+7053,2025-10,801,University-Rosedale Station 3,University-Rosedale,11,43.680477,-79.383695,23,True,urban,2016-04-14,34.82608695652174
+7053,2025-11,442,University-Rosedale Station 3,University-Rosedale,11,43.680477,-79.383695,23,True,urban,2016-04-14,19.217391304347824
+7054,2025-06,1018,University-Rosedale Station 4,University-Rosedale,11,43.662956,-79.40024,31,True,urban,2021-10-21,32.83870967741935
+7054,2025-07,1192,University-Rosedale Station 4,University-Rosedale,11,43.662956,-79.40024,31,True,urban,2021-10-21,38.45161290322581
+7054,2025-08,1193,University-Rosedale Station 4,University-Rosedale,11,43.662956,-79.40024,31,True,urban,2021-10-21,38.483870967741936
+7054,2025-09,1033,University-Rosedale Station 4,University-Rosedale,11,43.662956,-79.40024,31,True,urban,2021-10-21,33.32258064516129
+7054,2025-10,775,University-Rosedale Station 4,University-Rosedale,11,43.662956,-79.40024,31,True,urban,2021-10-21,25.0
+7054,2025-11,446,University-Rosedale Station 4,University-Rosedale,11,43.662956,-79.40024,31,True,urban,2021-10-21,14.387096774193548
+7055,2025-06,953,University-Rosedale Station 5,University-Rosedale,11,43.682183,-79.392624,19,False,urban,2023-01-05,50.1578947368421
+7055,2025-07,1117,University-Rosedale Station 5,University-Rosedale,11,43.682183,-79.392624,19,False,urban,2023-01-05,58.78947368421053
+7055,2025-08,1199,University-Rosedale Station 5,University-Rosedale,11,43.682183,-79.392624,19,False,urban,2023-01-05,63.10526315789474
+7055,2025-09,1017,University-Rosedale Station 5,University-Rosedale,11,43.682183,-79.392624,19,False,urban,2023-01-05,53.526315789473685
+7055,2025-10,778,University-Rosedale Station 5,University-Rosedale,11,43.682183,-79.392624,19,False,urban,2023-01-05,40.94736842105263
+7055,2025-11,490,University-Rosedale Station 5,University-Rosedale,11,43.682183,-79.392624,19,False,urban,2023-01-05,25.789473684210527
+7056,2025-06,1015,University-Rosedale Station 6,University-Rosedale,11,43.669776,-79.40219,23,True,urban,2016-06-30,44.130434782608695
+7056,2025-07,1188,University-Rosedale Station 6,University-Rosedale,11,43.669776,-79.40219,23,True,urban,2016-06-30,51.65217391304348
+7056,2025-08,1129,University-Rosedale Station 6,University-Rosedale,11,43.669776,-79.40219,23,True,urban,2016-06-30,49.08695652173913
+7056,2025-09,992,University-Rosedale Station 6,University-Rosedale,11,43.669776,-79.40219,23,True,urban,2016-06-30,43.130434782608695
+7056,2025-10,749,University-Rosedale Station 6,University-Rosedale,11,43.669776,-79.40219,23,True,urban,2016-06-30,32.56521739130435
+7056,2025-11,493,University-Rosedale Station 6,University-Rosedale,11,43.669776,-79.40219,23,True,urban,2016-06-30,21.434782608695652
+7057,2025-06,1030,University-Rosedale Station 7,University-Rosedale,11,43.678057,-79.408256,31,True,urban,2017-12-05,33.225806451612904
+7057,2025-07,1234,University-Rosedale Station 7,University-Rosedale,11,43.678057,-79.408256,31,True,urban,2017-12-05,39.806451612903224
+7057,2025-08,1186,University-Rosedale Station 7,University-Rosedale,11,43.678057,-79.408256,31,True,urban,2017-12-05,38.25806451612903
+7057,2025-09,1045,University-Rosedale Station 7,University-Rosedale,11,43.678057,-79.408256,31,True,urban,2017-12-05,33.70967741935484
+7057,2025-10,757,University-Rosedale Station 7,University-Rosedale,11,43.678057,-79.408256,31,True,urban,2017-12-05,24.419354838709676
+7057,2025-11,461,University-Rosedale Station 7,University-Rosedale,11,43.678057,-79.408256,31,True,urban,2017-12-05,14.870967741935484
+7058,2025-06,993,University-Rosedale Station 8,University-Rosedale,11,43.682446,-79.395194,15,False,urban,2021-12-19,66.2
+7058,2025-07,1147,University-Rosedale Station 8,University-Rosedale,11,43.682446,-79.395194,15,False,urban,2021-12-19,76.46666666666667
+7058,2025-08,1191,University-Rosedale Station 8,University-Rosedale,11,43.682446,-79.395194,15,False,urban,2021-12-19,79.4
+7058,2025-09,1009,University-Rosedale Station 8,University-Rosedale,11,43.682446,-79.395194,15,False,urban,2021-12-19,67.26666666666667
+7058,2025-10,753,University-Rosedale Station 8,University-Rosedale,11,43.682446,-79.395194,15,False,urban,2021-12-19,50.2
+7058,2025-11,477,University-Rosedale Station 8,University-Rosedale,11,43.682446,-79.395194,15,False,urban,2021-12-19,31.8
+7059,2025-06,973,University-Rosedale Station 9,University-Rosedale,11,43.671583,-79.387108,31,True,urban,2021-04-19,31.387096774193548
+7059,2025-07,1145,University-Rosedale Station 9,University-Rosedale,11,43.671583,-79.387108,31,True,urban,2021-04-19,36.935483870967744
+7059,2025-08,1215,University-Rosedale Station 9,University-Rosedale,11,43.671583,-79.387108,31,True,urban,2021-04-19,39.193548387096776
+7059,2025-09,1024,University-Rosedale Station 9,University-Rosedale,11,43.671583,-79.387108,31,True,urban,2021-04-19,33.03225806451613
+7059,2025-10,769,University-Rosedale Station 9,University-Rosedale,11,43.671583,-79.387108,31,True,urban,2021-04-19,24.806451612903224
+7059,2025-11,443,University-Rosedale Station 9,University-Rosedale,11,43.671583,-79.387108,31,True,urban,2021-04-19,14.290322580645162
+7060,2025-06,1000,University-Rosedale Station 10,University-Rosedale,11,43.666553,-79.375955,19,True,urban,2019-12-22,52.63157894736842
+7060,2025-07,1103,University-Rosedale Station 10,University-Rosedale,11,43.666553,-79.375955,19,True,urban,2019-12-22,58.05263157894737
+7060,2025-08,1192,University-Rosedale Station 10,University-Rosedale,11,43.666553,-79.375955,19,True,urban,2019-12-22,62.73684210526316
+7060,2025-09,987,University-Rosedale Station 10,University-Rosedale,11,43.666553,-79.375955,19,True,urban,2019-12-22,51.94736842105263
+7060,2025-10,787,University-Rosedale Station 10,University-Rosedale,11,43.666553,-79.375955,19,True,urban,2019-12-22,41.421052631578945
+7060,2025-11,491,University-Rosedale Station 10,University-Rosedale,11,43.666553,-79.375955,19,True,urban,2019-12-22,25.842105263157894
+7061,2025-06,1012,Toronto-St. Paul's Station 1,Toronto-St. Paul's,12,43.686841,-79.386231,27,True,urban,2016-09-17,37.48148148148148
+7061,2025-07,1143,Toronto-St. Paul's Station 1,Toronto-St. Paul's,12,43.686841,-79.386231,27,True,urban,2016-09-17,42.333333333333336
+7061,2025-08,1116,Toronto-St. Paul's Station 1,Toronto-St. Paul's,12,43.686841,-79.386231,27,True,urban,2016-09-17,41.333333333333336
+7061,2025-09,1001,Toronto-St. Paul's Station 1,Toronto-St. Paul's,12,43.686841,-79.386231,27,True,urban,2016-09-17,37.074074074074076
+7061,2025-10,825,Toronto-St. Paul's Station 1,Toronto-St. Paul's,12,43.686841,-79.386231,27,True,urban,2016-09-17,30.555555555555557
+7061,2025-11,448,Toronto-St. Paul's Station 1,Toronto-St. Paul's,12,43.686841,-79.386231,27,True,urban,2016-09-17,16.59259259259259
+7062,2025-06,1004,Toronto-St. Paul's Station 2,Toronto-St. Paul's,12,43.69345,-79.380398,15,True,urban,2018-11-10,66.93333333333334
+7062,2025-07,1181,Toronto-St. Paul's Station 2,Toronto-St. Paul's,12,43.69345,-79.380398,15,True,urban,2018-11-10,78.73333333333333
+7062,2025-08,1192,Toronto-St. Paul's Station 2,Toronto-St. Paul's,12,43.69345,-79.380398,15,True,urban,2018-11-10,79.46666666666667
+7062,2025-09,995,Toronto-St. Paul's Station 2,Toronto-St. Paul's,12,43.69345,-79.380398,15,True,urban,2018-11-10,66.33333333333333
+7062,2025-10,811,Toronto-St. Paul's Station 2,Toronto-St. Paul's,12,43.69345,-79.380398,15,True,urban,2018-11-10,54.06666666666667
+7062,2025-11,458,Toronto-St. Paul's Station 2,Toronto-St. Paul's,12,43.69345,-79.380398,15,True,urban,2018-11-10,30.533333333333335
+7063,2025-06,964,Toronto-St. Paul's Station 3,Toronto-St. Paul's,12,43.684677,-79.386053,15,False,urban,2023-07-08,64.26666666666667
+7063,2025-07,1232,Toronto-St. Paul's Station 3,Toronto-St. Paul's,12,43.684677,-79.386053,15,False,urban,2023-07-08,82.13333333333334
+7063,2025-08,1224,Toronto-St. Paul's Station 3,Toronto-St. Paul's,12,43.684677,-79.386053,15,False,urban,2023-07-08,81.6
+7063,2025-09,981,Toronto-St. Paul's Station 3,Toronto-St. Paul's,12,43.684677,-79.386053,15,False,urban,2023-07-08,65.4
+7063,2025-10,777,Toronto-St. Paul's Station 3,Toronto-St. Paul's,12,43.684677,-79.386053,15,False,urban,2023-07-08,51.8
+7063,2025-11,450,Toronto-St. Paul's Station 3,Toronto-St. Paul's,12,43.684677,-79.386053,15,False,urban,2023-07-08,30.0
+7064,2025-06,960,Toronto-St. Paul's Station 4,Toronto-St. Paul's,12,43.683808,-79.387626,27,False,urban,2016-06-08,35.55555555555556
+7064,2025-07,1184,Toronto-St. Paul's Station 4,Toronto-St. Paul's,12,43.683808,-79.387626,27,False,urban,2016-06-08,43.851851851851855
+7064,2025-08,1164,Toronto-St. Paul's Station 4,Toronto-St. Paul's,12,43.683808,-79.387626,27,False,urban,2016-06-08,43.111111111111114
+7064,2025-09,991,Toronto-St. Paul's Station 4,Toronto-St. Paul's,12,43.683808,-79.387626,27,False,urban,2016-06-08,36.7037037037037
+7064,2025-10,751,Toronto-St. Paul's Station 4,Toronto-St. Paul's,12,43.683808,-79.387626,27,False,urban,2016-06-08,27.814814814814813
+7064,2025-11,466,Toronto-St. Paul's Station 4,Toronto-St. Paul's,12,43.683808,-79.387626,27,False,urban,2016-06-08,17.25925925925926
+7065,2025-06,1029,Toronto-St. Paul's Station 5,Toronto-St. Paul's,12,43.677448,-79.419793,23,True,urban,2022-01-03,44.73913043478261
+7065,2025-07,1158,Toronto-St. Paul's Station 5,Toronto-St. Paul's,12,43.677448,-79.419793,23,True,urban,2022-01-03,50.34782608695652
+7065,2025-08,1174,Toronto-St. Paul's Station 5,Toronto-St. Paul's,12,43.677448,-79.419793,23,True,urban,2022-01-03,51.04347826086956
+7065,2025-09,986,Toronto-St. Paul's Station 5,Toronto-St. Paul's,12,43.677448,-79.419793,23,True,urban,2022-01-03,42.869565217391305
+7065,2025-10,811,Toronto-St. Paul's Station 5,Toronto-St. Paul's,12,43.677448,-79.419793,23,True,urban,2022-01-03,35.26086956521739
+7065,2025-11,475,Toronto-St. Paul's Station 5,Toronto-St. Paul's,12,43.677448,-79.419793,23,True,urban,2022-01-03,20.652173913043477
+7066,2025-06,945,Toronto-St. Paul's Station 6,Toronto-St. Paul's,12,43.686904,-79.417969,27,True,urban,2024-05-18,35.0
+7066,2025-07,1210,Toronto-St. Paul's Station 6,Toronto-St. Paul's,12,43.686904,-79.417969,27,True,urban,2024-05-18,44.81481481481482
+7066,2025-08,1144,Toronto-St. Paul's Station 6,Toronto-St. Paul's,12,43.686904,-79.417969,27,True,urban,2024-05-18,42.370370370370374
+7066,2025-09,1008,Toronto-St. Paul's Station 6,Toronto-St. Paul's,12,43.686904,-79.417969,27,True,urban,2024-05-18,37.333333333333336
+7066,2025-10,746,Toronto-St. Paul's Station 6,Toronto-St. Paul's,12,43.686904,-79.417969,27,True,urban,2024-05-18,27.62962962962963
+7066,2025-11,512,Toronto-St. Paul's Station 6,Toronto-St. Paul's,12,43.686904,-79.417969,27,True,urban,2024-05-18,18.962962962962962
+7067,2025-06,993,Toronto-St. Paul's Station 7,Toronto-St. Paul's,12,43.677819,-79.396869,15,True,urban,2016-07-28,66.2
+7067,2025-07,1219,Toronto-St. Paul's Station 7,Toronto-St. Paul's,12,43.677819,-79.396869,15,True,urban,2016-07-28,81.26666666666667
+7067,2025-08,1160,Toronto-St. Paul's Station 7,Toronto-St. Paul's,12,43.677819,-79.396869,15,True,urban,2016-07-28,77.33333333333333
+7067,2025-09,946,Toronto-St. Paul's Station 7,Toronto-St. Paul's,12,43.677819,-79.396869,15,True,urban,2016-07-28,63.06666666666667
+7067,2025-10,787,Toronto-St. Paul's Station 7,Toronto-St. Paul's,12,43.677819,-79.396869,15,True,urban,2016-07-28,52.46666666666667
+7067,2025-11,448,Toronto-St. Paul's Station 7,Toronto-St. Paul's,12,43.677819,-79.396869,15,True,urban,2016-07-28,29.866666666666667
+7068,2025-06,990,Toronto-St. Paul's Station 8,Toronto-St. Paul's,12,43.704455,-79.386443,27,True,urban,2016-11-12,36.666666666666664
+7068,2025-07,1175,Toronto-St. Paul's Station 8,Toronto-St. Paul's,12,43.704455,-79.386443,27,True,urban,2016-11-12,43.51851851851852
+7068,2025-08,1173,Toronto-St. Paul's Station 8,Toronto-St. Paul's,12,43.704455,-79.386443,27,True,urban,2016-11-12,43.44444444444444
+7068,2025-09,971,Toronto-St. Paul's Station 8,Toronto-St. Paul's,12,43.704455,-79.386443,27,True,urban,2016-11-12,35.96296296296296
+7068,2025-10,716,Toronto-St. Paul's Station 8,Toronto-St. Paul's,12,43.704455,-79.386443,27,True,urban,2016-11-12,26.51851851851852
+7068,2025-11,461,Toronto-St. Paul's Station 8,Toronto-St. Paul's,12,43.704455,-79.386443,27,True,urban,2016-11-12,17.074074074074073
+7069,2025-06,1024,Toronto-St. Paul's Station 9,Toronto-St. Paul's,12,43.699678,-79.405592,15,True,urban,2023-07-22,68.26666666666667
+7069,2025-07,1158,Toronto-St. Paul's Station 9,Toronto-St. Paul's,12,43.699678,-79.405592,15,True,urban,2023-07-22,77.2
+7069,2025-08,1193,Toronto-St. Paul's Station 9,Toronto-St. Paul's,12,43.699678,-79.405592,15,True,urban,2023-07-22,79.53333333333333
+7069,2025-09,1035,Toronto-St. Paul's Station 9,Toronto-St. Paul's,12,43.699678,-79.405592,15,True,urban,2023-07-22,69.0
+7069,2025-10,810,Toronto-St. Paul's Station 9,Toronto-St. Paul's,12,43.699678,-79.405592,15,True,urban,2023-07-22,54.0
+7069,2025-11,420,Toronto-St. Paul's Station 9,Toronto-St. Paul's,12,43.699678,-79.405592,15,True,urban,2023-07-22,28.0
+7070,2025-06,984,Toronto-St. Paul's Station 10,Toronto-St. Paul's,12,43.683146,-79.38139,19,False,urban,2017-09-18,51.78947368421053
+7070,2025-07,1214,Toronto-St. Paul's Station 10,Toronto-St. Paul's,12,43.683146,-79.38139,19,False,urban,2017-09-18,63.89473684210526
+7070,2025-08,1218,Toronto-St. Paul's Station 10,Toronto-St. Paul's,12,43.683146,-79.38139,19,False,urban,2017-09-18,64.10526315789474
+7070,2025-09,981,Toronto-St. Paul's Station 10,Toronto-St. Paul's,12,43.683146,-79.38139,19,False,urban,2017-09-18,51.63157894736842
+7070,2025-10,765,Toronto-St. Paul's Station 10,Toronto-St. Paul's,12,43.683146,-79.38139,19,False,urban,2017-09-18,40.26315789473684
+7070,2025-11,438,Toronto-St. Paul's Station 10,Toronto-St. Paul's,12,43.683146,-79.38139,19,False,urban,2017-09-18,23.05263157894737
+7071,2025-06,933,Toronto Centre Station 1,Toronto Centre,13,43.660941,-79.368375,23,False,urban,2015-09-26,40.56521739130435
+7071,2025-07,1169,Toronto Centre Station 1,Toronto Centre,13,43.660941,-79.368375,23,False,urban,2015-09-26,50.82608695652174
+7071,2025-08,1146,Toronto Centre Station 1,Toronto Centre,13,43.660941,-79.368375,23,False,urban,2015-09-26,49.82608695652174
+7071,2025-09,989,Toronto Centre Station 1,Toronto Centre,13,43.660941,-79.368375,23,False,urban,2015-09-26,43.0
+7071,2025-10,782,Toronto Centre Station 1,Toronto Centre,13,43.660941,-79.368375,23,False,urban,2015-09-26,34.0
+7071,2025-11,472,Toronto Centre Station 1,Toronto Centre,13,43.660941,-79.368375,23,False,urban,2015-09-26,20.52173913043478
+7072,2025-06,998,Toronto Centre Station 2,Toronto Centre,13,43.674086,-79.361416,15,True,urban,2019-12-16,66.53333333333333
+7072,2025-07,1169,Toronto Centre Station 2,Toronto Centre,13,43.674086,-79.361416,15,True,urban,2019-12-16,77.93333333333334
+7072,2025-08,1201,Toronto Centre Station 2,Toronto Centre,13,43.674086,-79.361416,15,True,urban,2019-12-16,80.06666666666666
+7072,2025-09,1023,Toronto Centre Station 2,Toronto Centre,13,43.674086,-79.361416,15,True,urban,2019-12-16,68.2
+7072,2025-10,787,Toronto Centre Station 2,Toronto Centre,13,43.674086,-79.361416,15,True,urban,2019-12-16,52.46666666666667
+7072,2025-11,475,Toronto Centre Station 2,Toronto Centre,13,43.674086,-79.361416,15,True,urban,2019-12-16,31.666666666666668
+7073,2025-06,980,Toronto Centre Station 3,Toronto Centre,13,43.658169,-79.386862,15,False,urban,2022-10-09,65.33333333333333
+7073,2025-07,1183,Toronto Centre Station 3,Toronto Centre,13,43.658169,-79.386862,15,False,urban,2022-10-09,78.86666666666666
+7073,2025-08,1158,Toronto Centre Station 3,Toronto Centre,13,43.658169,-79.386862,15,False,urban,2022-10-09,77.2
+7073,2025-09,927,Toronto Centre Station 3,Toronto Centre,13,43.658169,-79.386862,15,False,urban,2022-10-09,61.8
+7073,2025-10,727,Toronto Centre Station 3,Toronto Centre,13,43.658169,-79.386862,15,False,urban,2022-10-09,48.46666666666667
+7073,2025-11,463,Toronto Centre Station 3,Toronto Centre,13,43.658169,-79.386862,15,False,urban,2022-10-09,30.866666666666667
+7074,2025-06,966,Toronto Centre Station 4,Toronto Centre,13,43.657849,-79.36246,15,False,urban,2022-10-20,64.4
+7074,2025-07,1214,Toronto Centre Station 4,Toronto Centre,13,43.657849,-79.36246,15,False,urban,2022-10-20,80.93333333333334
+7074,2025-08,1215,Toronto Centre Station 4,Toronto Centre,13,43.657849,-79.36246,15,False,urban,2022-10-20,81.0
+7074,2025-09,1021,Toronto Centre Station 4,Toronto Centre,13,43.657849,-79.36246,15,False,urban,2022-10-20,68.06666666666666
+7074,2025-10,801,Toronto Centre Station 4,Toronto Centre,13,43.657849,-79.36246,15,False,urban,2022-10-20,53.4
+7074,2025-11,452,Toronto Centre Station 4,Toronto Centre,13,43.657849,-79.36246,15,False,urban,2022-10-20,30.133333333333333
+7075,2025-06,1028,Toronto Centre Station 5,Toronto Centre,13,43.652194,-79.386245,15,False,urban,2017-06-15,68.53333333333333
+7075,2025-07,1158,Toronto Centre Station 5,Toronto Centre,13,43.652194,-79.386245,15,False,urban,2017-06-15,77.2
+7075,2025-08,1230,Toronto Centre Station 5,Toronto Centre,13,43.652194,-79.386245,15,False,urban,2017-06-15,82.0
+7075,2025-09,954,Toronto Centre Station 5,Toronto Centre,13,43.652194,-79.386245,15,False,urban,2017-06-15,63.6
+7075,2025-10,720,Toronto Centre Station 5,Toronto Centre,13,43.652194,-79.386245,15,False,urban,2017-06-15,48.0
+7075,2025-11,475,Toronto Centre Station 5,Toronto Centre,13,43.652194,-79.386245,15,False,urban,2017-06-15,31.666666666666668
+7076,2025-06,938,Toronto Centre Station 6,Toronto Centre,13,43.673646,-79.360484,23,False,urban,2021-04-13,40.78260869565217
+7076,2025-07,1163,Toronto Centre Station 6,Toronto Centre,13,43.673646,-79.360484,23,False,urban,2021-04-13,50.56521739130435
+7076,2025-08,1179,Toronto Centre Station 6,Toronto Centre,13,43.673646,-79.360484,23,False,urban,2021-04-13,51.26086956521739
+7076,2025-09,1006,Toronto Centre Station 6,Toronto Centre,13,43.673646,-79.360484,23,False,urban,2021-04-13,43.73913043478261
+7076,2025-10,773,Toronto Centre Station 6,Toronto Centre,13,43.673646,-79.360484,23,False,urban,2021-04-13,33.608695652173914
+7076,2025-11,452,Toronto Centre Station 6,Toronto Centre,13,43.673646,-79.360484,23,False,urban,2021-04-13,19.652173913043477
+7077,2025-06,1001,Toronto Centre Station 7,Toronto Centre,13,43.646431,-79.367359,15,True,urban,2024-03-10,66.73333333333333
+7077,2025-07,1169,Toronto Centre Station 7,Toronto Centre,13,43.646431,-79.367359,15,True,urban,2024-03-10,77.93333333333334
+7077,2025-08,1185,Toronto Centre Station 7,Toronto Centre,13,43.646431,-79.367359,15,True,urban,2024-03-10,79.0
+7077,2025-09,986,Toronto Centre Station 7,Toronto Centre,13,43.646431,-79.367359,15,True,urban,2024-03-10,65.73333333333333
+7077,2025-10,783,Toronto Centre Station 7,Toronto Centre,13,43.646431,-79.367359,15,True,urban,2024-03-10,52.2
+7077,2025-11,433,Toronto Centre Station 7,Toronto Centre,13,43.646431,-79.367359,15,True,urban,2024-03-10,28.866666666666667
+7078,2025-06,1061,Toronto Centre Station 8,Toronto Centre,13,43.648482,-79.38816,15,False,urban,2023-05-18,70.73333333333333
+7078,2025-07,1140,Toronto Centre Station 8,Toronto Centre,13,43.648482,-79.38816,15,False,urban,2023-05-18,76.0
+7078,2025-08,1220,Toronto Centre Station 8,Toronto Centre,13,43.648482,-79.38816,15,False,urban,2023-05-18,81.33333333333333
+7078,2025-09,989,Toronto Centre Station 8,Toronto Centre,13,43.648482,-79.38816,15,False,urban,2023-05-18,65.93333333333334
+7078,2025-10,759,Toronto Centre Station 8,Toronto Centre,13,43.648482,-79.38816,15,False,urban,2023-05-18,50.6
+7078,2025-11,461,Toronto Centre Station 8,Toronto Centre,13,43.648482,-79.38816,15,False,urban,2023-05-18,30.733333333333334
+7079,2025-06,1002,Toronto Centre Station 9,Toronto Centre,13,43.65026,-79.389314,23,False,urban,2019-06-24,43.56521739130435
+7079,2025-07,1130,Toronto Centre Station 9,Toronto Centre,13,43.65026,-79.389314,23,False,urban,2019-06-24,49.130434782608695
+7079,2025-08,1181,Toronto Centre Station 9,Toronto Centre,13,43.65026,-79.389314,23,False,urban,2019-06-24,51.34782608695652
+7079,2025-09,1035,Toronto Centre Station 9,Toronto Centre,13,43.65026,-79.389314,23,False,urban,2019-06-24,45.0
+7079,2025-10,786,Toronto Centre Station 9,Toronto Centre,13,43.65026,-79.389314,23,False,urban,2019-06-24,34.17391304347826
+7079,2025-11,448,Toronto Centre Station 9,Toronto Centre,13,43.65026,-79.389314,23,False,urban,2019-06-24,19.47826086956522
+7080,2025-06,978,Toronto Centre Station 10,Toronto Centre,13,43.650196,-79.372646,19,False,urban,2023-09-07,51.473684210526315
+7080,2025-07,1149,Toronto Centre Station 10,Toronto Centre,13,43.650196,-79.372646,19,False,urban,2023-09-07,60.473684210526315
+7080,2025-08,1233,Toronto Centre Station 10,Toronto Centre,13,43.650196,-79.372646,19,False,urban,2023-09-07,64.89473684210526
+7080,2025-09,957,Toronto Centre Station 10,Toronto Centre,13,43.650196,-79.372646,19,False,urban,2023-09-07,50.36842105263158
+7080,2025-10,822,Toronto Centre Station 10,Toronto Centre,13,43.650196,-79.372646,19,False,urban,2023-09-07,43.26315789473684
+7080,2025-11,463,Toronto Centre Station 10,Toronto Centre,13,43.650196,-79.372646,19,False,urban,2023-09-07,24.36842105263158
+7081,2025-06,1015,Toronto-Danforth Station 1,Toronto-Danforth,14,43.666359,-79.345015,23,True,urban,2022-09-17,44.130434782608695
+7081,2025-07,1144,Toronto-Danforth Station 1,Toronto-Danforth,14,43.666359,-79.345015,23,True,urban,2022-09-17,49.73913043478261
+7081,2025-08,1184,Toronto-Danforth Station 1,Toronto-Danforth,14,43.666359,-79.345015,23,True,urban,2022-09-17,51.47826086956522
+7081,2025-09,1072,Toronto-Danforth Station 1,Toronto-Danforth,14,43.666359,-79.345015,23,True,urban,2022-09-17,46.608695652173914
+7081,2025-10,795,Toronto-Danforth Station 1,Toronto-Danforth,14,43.666359,-79.345015,23,True,urban,2022-09-17,34.56521739130435
+7081,2025-11,460,Toronto-Danforth Station 1,Toronto-Danforth,14,43.666359,-79.345015,23,True,urban,2022-09-17,20.0
+7082,2025-06,973,Toronto-Danforth Station 2,Toronto-Danforth,14,43.681181,-79.332641,23,False,urban,2021-04-24,42.30434782608695
+7082,2025-07,1139,Toronto-Danforth Station 2,Toronto-Danforth,14,43.681181,-79.332641,23,False,urban,2021-04-24,49.52173913043478
+7082,2025-08,1260,Toronto-Danforth Station 2,Toronto-Danforth,14,43.681181,-79.332641,23,False,urban,2021-04-24,54.78260869565217
+7082,2025-09,1011,Toronto-Danforth Station 2,Toronto-Danforth,14,43.681181,-79.332641,23,False,urban,2021-04-24,43.95652173913044
+7082,2025-10,753,Toronto-Danforth Station 2,Toronto-Danforth,14,43.681181,-79.332641,23,False,urban,2021-04-24,32.73913043478261
+7082,2025-11,493,Toronto-Danforth Station 2,Toronto-Danforth,14,43.681181,-79.332641,23,False,urban,2021-04-24,21.434782608695652
+7083,2025-06,965,Toronto-Danforth Station 3,Toronto-Danforth,14,43.665795,-79.336569,27,False,urban,2022-06-30,35.74074074074074
+7083,2025-07,1166,Toronto-Danforth Station 3,Toronto-Danforth,14,43.665795,-79.336569,27,False,urban,2022-06-30,43.18518518518518
+7083,2025-08,1216,Toronto-Danforth Station 3,Toronto-Danforth,14,43.665795,-79.336569,27,False,urban,2022-06-30,45.03703703703704
+7083,2025-09,958,Toronto-Danforth Station 3,Toronto-Danforth,14,43.665795,-79.336569,27,False,urban,2022-06-30,35.48148148148148
+7083,2025-10,776,Toronto-Danforth Station 3,Toronto-Danforth,14,43.665795,-79.336569,27,False,urban,2022-06-30,28.74074074074074
+7083,2025-11,468,Toronto-Danforth Station 3,Toronto-Danforth,14,43.665795,-79.336569,27,False,urban,2022-06-30,17.333333333333332
+7084,2025-06,1024,Toronto-Danforth Station 4,Toronto-Danforth,14,43.682201,-79.35486,27,False,urban,2018-07-15,37.925925925925924
+7084,2025-07,1170,Toronto-Danforth Station 4,Toronto-Danforth,14,43.682201,-79.35486,27,False,urban,2018-07-15,43.333333333333336
+7084,2025-08,1182,Toronto-Danforth Station 4,Toronto-Danforth,14,43.682201,-79.35486,27,False,urban,2018-07-15,43.77777777777778
+7084,2025-09,953,Toronto-Danforth Station 4,Toronto-Danforth,14,43.682201,-79.35486,27,False,urban,2018-07-15,35.2962962962963
+7084,2025-10,760,Toronto-Danforth Station 4,Toronto-Danforth,14,43.682201,-79.35486,27,False,urban,2018-07-15,28.14814814814815
+7084,2025-11,407,Toronto-Danforth Station 4,Toronto-Danforth,14,43.682201,-79.35486,27,False,urban,2018-07-15,15.074074074074074
+7085,2025-06,1039,Toronto-Danforth Station 5,Toronto-Danforth,14,43.676583,-79.321552,27,True,urban,2021-09-10,38.48148148148148
+7085,2025-07,1186,Toronto-Danforth Station 5,Toronto-Danforth,14,43.676583,-79.321552,27,True,urban,2021-09-10,43.925925925925924
+7085,2025-08,1210,Toronto-Danforth Station 5,Toronto-Danforth,14,43.676583,-79.321552,27,True,urban,2021-09-10,44.81481481481482
+7085,2025-09,960,Toronto-Danforth Station 5,Toronto-Danforth,14,43.676583,-79.321552,27,True,urban,2021-09-10,35.55555555555556
+7085,2025-10,817,Toronto-Danforth Station 5,Toronto-Danforth,14,43.676583,-79.321552,27,True,urban,2021-09-10,30.25925925925926
+7085,2025-11,465,Toronto-Danforth Station 5,Toronto-Danforth,14,43.676583,-79.321552,27,True,urban,2021-09-10,17.22222222222222
+7086,2025-06,998,Toronto-Danforth Station 6,Toronto-Danforth,14,43.671438,-79.34491,15,False,urban,2022-08-06,66.53333333333333
+7086,2025-07,1166,Toronto-Danforth Station 6,Toronto-Danforth,14,43.671438,-79.34491,15,False,urban,2022-08-06,77.73333333333333
+7086,2025-08,1188,Toronto-Danforth Station 6,Toronto-Danforth,14,43.671438,-79.34491,15,False,urban,2022-08-06,79.2
+7086,2025-09,999,Toronto-Danforth Station 6,Toronto-Danforth,14,43.671438,-79.34491,15,False,urban,2022-08-06,66.6
+7086,2025-10,770,Toronto-Danforth Station 6,Toronto-Danforth,14,43.671438,-79.34491,15,False,urban,2022-08-06,51.333333333333336
+7086,2025-11,437,Toronto-Danforth Station 6,Toronto-Danforth,14,43.671438,-79.34491,15,False,urban,2022-08-06,29.133333333333333
+7087,2025-06,1013,Toronto-Danforth Station 7,Toronto-Danforth,14,43.667136,-79.347241,27,True,urban,2016-02-22,37.51851851851852
+7087,2025-07,1174,Toronto-Danforth Station 7,Toronto-Danforth,14,43.667136,-79.347241,27,True,urban,2016-02-22,43.48148148148148
+7087,2025-08,1222,Toronto-Danforth Station 7,Toronto-Danforth,14,43.667136,-79.347241,27,True,urban,2016-02-22,45.25925925925926
+7087,2025-09,1012,Toronto-Danforth Station 7,Toronto-Danforth,14,43.667136,-79.347241,27,True,urban,2016-02-22,37.48148148148148
+7087,2025-10,772,Toronto-Danforth Station 7,Toronto-Danforth,14,43.667136,-79.347241,27,True,urban,2016-02-22,28.59259259259259
+7087,2025-11,440,Toronto-Danforth Station 7,Toronto-Danforth,14,43.667136,-79.347241,27,True,urban,2016-02-22,16.296296296296298
+7088,2025-06,986,Toronto-Danforth Station 8,Toronto-Danforth,14,43.672821,-79.340159,23,True,urban,2023-08-13,42.869565217391305
+7088,2025-07,1231,Toronto-Danforth Station 8,Toronto-Danforth,14,43.672821,-79.340159,23,True,urban,2023-08-13,53.52173913043478
+7088,2025-08,1188,Toronto-Danforth Station 8,Toronto-Danforth,14,43.672821,-79.340159,23,True,urban,2023-08-13,51.65217391304348
+7088,2025-09,1023,Toronto-Danforth Station 8,Toronto-Danforth,14,43.672821,-79.340159,23,True,urban,2023-08-13,44.47826086956522
+7088,2025-10,779,Toronto-Danforth Station 8,Toronto-Danforth,14,43.672821,-79.340159,23,True,urban,2023-08-13,33.869565217391305
+7088,2025-11,456,Toronto-Danforth Station 8,Toronto-Danforth,14,43.672821,-79.340159,23,True,urban,2023-08-13,19.82608695652174
+7089,2025-06,1027,Toronto-Danforth Station 9,Toronto-Danforth,14,43.691324,-79.330597,27,True,urban,2024-06-27,38.03703703703704
+7089,2025-07,1155,Toronto-Danforth Station 9,Toronto-Danforth,14,43.691324,-79.330597,27,True,urban,2024-06-27,42.77777777777778
+7089,2025-08,1161,Toronto-Danforth Station 9,Toronto-Danforth,14,43.691324,-79.330597,27,True,urban,2024-06-27,43.0
+7089,2025-09,967,Toronto-Danforth Station 9,Toronto-Danforth,14,43.691324,-79.330597,27,True,urban,2024-06-27,35.81481481481482
+7089,2025-10,789,Toronto-Danforth Station 9,Toronto-Danforth,14,43.691324,-79.330597,27,True,urban,2024-06-27,29.22222222222222
+7089,2025-11,471,Toronto-Danforth Station 9,Toronto-Danforth,14,43.691324,-79.330597,27,True,urban,2024-06-27,17.444444444444443
+7090,2025-06,1002,Toronto-Danforth Station 10,Toronto-Danforth,14,43.677704,-79.337259,23,False,urban,2019-04-21,43.56521739130435
+7090,2025-07,1225,Toronto-Danforth Station 10,Toronto-Danforth,14,43.677704,-79.337259,23,False,urban,2019-04-21,53.26086956521739
+7090,2025-08,1166,Toronto-Danforth Station 10,Toronto-Danforth,14,43.677704,-79.337259,23,False,urban,2019-04-21,50.69565217391305
+7090,2025-09,995,Toronto-Danforth Station 10,Toronto-Danforth,14,43.677704,-79.337259,23,False,urban,2019-04-21,43.26086956521739
+7090,2025-10,814,Toronto-Danforth Station 10,Toronto-Danforth,14,43.677704,-79.337259,23,False,urban,2019-04-21,35.391304347826086
+7090,2025-11,466,Toronto-Danforth Station 10,Toronto-Danforth,14,43.677704,-79.337259,23,False,urban,2019-04-21,20.26086956521739
+7091,2025-06,162,Don Valley West Station 1,Don Valley West,15,43.716161,-79.358943,19,False,mixed,2023-12-06,8.526315789473685
+7091,2025-07,174,Don Valley West Station 1,Don Valley West,15,43.716161,-79.358943,19,False,mixed,2023-12-06,9.157894736842104
+7091,2025-08,192,Don Valley West Station 1,Don Valley West,15,43.716161,-79.358943,19,False,mixed,2023-12-06,10.105263157894736
+7091,2025-09,162,Don Valley West Station 1,Don Valley West,15,43.716161,-79.358943,19,False,mixed,2023-12-06,8.526315789473685
+7091,2025-10,109,Don Valley West Station 1,Don Valley West,15,43.716161,-79.358943,19,False,mixed,2023-12-06,5.7368421052631575
+7091,2025-11,80,Don Valley West Station 1,Don Valley West,15,43.716161,-79.358943,19,False,mixed,2023-12-06,4.2105263157894735
+7092,2025-06,195,Don Valley West Station 2,Don Valley West,15,43.721856,-79.380456,23,False,mixed,2021-05-15,8.478260869565217
+7092,2025-07,206,Don Valley West Station 2,Don Valley West,15,43.721856,-79.380456,23,False,mixed,2021-05-15,8.956521739130435
+7092,2025-08,204,Don Valley West Station 2,Don Valley West,15,43.721856,-79.380456,23,False,mixed,2021-05-15,8.869565217391305
+7092,2025-09,170,Don Valley West Station 2,Don Valley West,15,43.721856,-79.380456,23,False,mixed,2021-05-15,7.391304347826087
+7092,2025-10,117,Don Valley West Station 2,Don Valley West,15,43.721856,-79.380456,23,False,mixed,2021-05-15,5.086956521739131
+7092,2025-11,79,Don Valley West Station 2,Don Valley West,15,43.721856,-79.380456,23,False,mixed,2021-05-15,3.4347826086956523
+7093,2025-06,145,Don Valley West Station 3,Don Valley West,15,43.727636,-79.385875,27,False,mixed,2020-10-10,5.37037037037037
+7093,2025-07,184,Don Valley West Station 3,Don Valley West,15,43.727636,-79.385875,27,False,mixed,2020-10-10,6.814814814814815
+7093,2025-08,213,Don Valley West Station 3,Don Valley West,15,43.727636,-79.385875,27,False,mixed,2020-10-10,7.888888888888889
+7093,2025-09,175,Don Valley West Station 3,Don Valley West,15,43.727636,-79.385875,27,False,mixed,2020-10-10,6.481481481481482
+7093,2025-10,117,Don Valley West Station 3,Don Valley West,15,43.727636,-79.385875,27,False,mixed,2020-10-10,4.333333333333333
+7093,2025-11,72,Don Valley West Station 3,Don Valley West,15,43.727636,-79.385875,27,False,mixed,2020-10-10,2.6666666666666665
+7094,2025-06,155,Don Valley West Station 4,Don Valley West,15,43.719897,-79.374415,19,False,mixed,2023-06-18,8.157894736842104
+7094,2025-07,223,Don Valley West Station 4,Don Valley West,15,43.719897,-79.374415,19,False,mixed,2023-06-18,11.736842105263158
+7094,2025-08,183,Don Valley West Station 4,Don Valley West,15,43.719897,-79.374415,19,False,mixed,2023-06-18,9.631578947368421
+7094,2025-09,176,Don Valley West Station 4,Don Valley West,15,43.719897,-79.374415,19,False,mixed,2023-06-18,9.263157894736842
+7094,2025-10,99,Don Valley West Station 4,Don Valley West,15,43.719897,-79.374415,19,False,mixed,2023-06-18,5.2105263157894735
+7094,2025-11,73,Don Valley West Station 4,Don Valley West,15,43.719897,-79.374415,19,False,mixed,2023-06-18,3.8421052631578947
+7095,2025-06,155,Don Valley East Station 1,Don Valley East,16,43.736676,-79.359566,27,False,suburban,2015-03-17,5.7407407407407405
+7095,2025-07,223,Don Valley East Station 1,Don Valley East,16,43.736676,-79.359566,27,False,suburban,2015-03-17,8.25925925925926
+7095,2025-08,195,Don Valley East Station 1,Don Valley East,16,43.736676,-79.359566,27,False,suburban,2015-03-17,7.222222222222222
+7095,2025-09,159,Don Valley East Station 1,Don Valley East,16,43.736676,-79.359566,27,False,suburban,2015-03-17,5.888888888888889
+7095,2025-10,119,Don Valley East Station 1,Don Valley East,16,43.736676,-79.359566,27,False,suburban,2015-03-17,4.407407407407407
+7095,2025-11,78,Don Valley East Station 1,Don Valley East,16,43.736676,-79.359566,27,False,suburban,2015-03-17,2.888888888888889
+7096,2025-06,149,Don Valley East Station 2,Don Valley East,16,43.735647,-79.321728,23,False,suburban,2024-12-14,6.478260869565218
+7096,2025-07,204,Don Valley East Station 2,Don Valley East,16,43.735647,-79.321728,23,False,suburban,2024-12-14,8.869565217391305
+7096,2025-08,194,Don Valley East Station 2,Don Valley East,16,43.735647,-79.321728,23,False,suburban,2024-12-14,8.434782608695652
+7096,2025-09,155,Don Valley East Station 2,Don Valley East,16,43.735647,-79.321728,23,False,suburban,2024-12-14,6.739130434782608
+7096,2025-10,136,Don Valley East Station 2,Don Valley East,16,43.735647,-79.321728,23,False,suburban,2024-12-14,5.913043478260869
+7096,2025-11,88,Don Valley East Station 2,Don Valley East,16,43.735647,-79.321728,23,False,suburban,2024-12-14,3.8260869565217392
+7097,2025-06,148,Don Valley North Station 1,Don Valley North,17,43.772203,-79.354727,19,False,suburban,2023-09-06,7.7894736842105265
+7097,2025-07,155,Don Valley North Station 1,Don Valley North,17,43.772203,-79.354727,19,False,suburban,2023-09-06,8.157894736842104
+7097,2025-08,193,Don Valley North Station 1,Don Valley North,17,43.772203,-79.354727,19,False,suburban,2023-09-06,10.157894736842104
+7097,2025-09,164,Don Valley North Station 1,Don Valley North,17,43.772203,-79.354727,19,False,suburban,2023-09-06,8.631578947368421
+7097,2025-10,116,Don Valley North Station 1,Don Valley North,17,43.772203,-79.354727,19,False,suburban,2023-09-06,6.105263157894737
+7097,2025-11,72,Don Valley North Station 1,Don Valley North,17,43.772203,-79.354727,19,False,suburban,2023-09-06,3.789473684210526
+7098,2025-06,152,Don Valley North Station 2,Don Valley North,17,43.773073,-79.357852,19,False,suburban,2024-12-15,8.0
+7098,2025-07,199,Don Valley North Station 2,Don Valley North,17,43.773073,-79.357852,19,False,suburban,2024-12-15,10.473684210526315
+7098,2025-08,190,Don Valley North Station 2,Don Valley North,17,43.773073,-79.357852,19,False,suburban,2024-12-15,10.0
+7098,2025-09,164,Don Valley North Station 2,Don Valley North,17,43.773073,-79.357852,19,False,suburban,2024-12-15,8.631578947368421
+7098,2025-10,121,Don Valley North Station 2,Don Valley North,17,43.773073,-79.357852,19,False,suburban,2024-12-15,6.368421052631579
+7098,2025-11,65,Don Valley North Station 2,Don Valley North,17,43.773073,-79.357852,19,False,suburban,2024-12-15,3.4210526315789473
+7099,2025-06,151,Willowdale Station 1,Willowdale,18,43.778747,-79.398415,15,False,suburban,2017-12-01,10.066666666666666
+7099,2025-07,176,Willowdale Station 1,Willowdale,18,43.778747,-79.398415,15,False,suburban,2017-12-01,11.733333333333333
+7099,2025-08,179,Willowdale Station 1,Willowdale,18,43.778747,-79.398415,15,False,suburban,2017-12-01,11.933333333333334
+7099,2025-09,164,Willowdale Station 1,Willowdale,18,43.778747,-79.398415,15,False,suburban,2017-12-01,10.933333333333334
+7099,2025-10,111,Willowdale Station 1,Willowdale,18,43.778747,-79.398415,15,False,suburban,2017-12-01,7.4
+7099,2025-11,83,Willowdale Station 1,Willowdale,18,43.778747,-79.398415,15,False,suburban,2017-12-01,5.533333333333333
+7100,2025-06,174,Willowdale Station 2,Willowdale,18,43.784227,-79.390163,15,False,suburban,2023-11-09,11.6
+7100,2025-07,198,Willowdale Station 2,Willowdale,18,43.784227,-79.390163,15,False,suburban,2023-11-09,13.2
+7100,2025-08,192,Willowdale Station 2,Willowdale,18,43.784227,-79.390163,15,False,suburban,2023-11-09,12.8
+7100,2025-09,161,Willowdale Station 2,Willowdale,18,43.784227,-79.390163,15,False,suburban,2023-11-09,10.733333333333333
+7100,2025-10,138,Willowdale Station 2,Willowdale,18,43.784227,-79.390163,15,False,suburban,2023-11-09,9.2
+7100,2025-11,84,Willowdale Station 2,Willowdale,18,43.784227,-79.390163,15,False,suburban,2023-11-09,5.6
+7101,2025-06,166,Beaches-East York Station 1,Beaches-East York,19,43.691631,-79.305963,15,False,mixed,2022-03-20,11.066666666666666
+7101,2025-07,182,Beaches-East York Station 1,Beaches-East York,19,43.691631,-79.305963,15,False,mixed,2022-03-20,12.133333333333333
+7101,2025-08,172,Beaches-East York Station 1,Beaches-East York,19,43.691631,-79.305963,15,False,mixed,2022-03-20,11.466666666666667
+7101,2025-09,168,Beaches-East York Station 1,Beaches-East York,19,43.691631,-79.305963,15,False,mixed,2022-03-20,11.2
+7101,2025-10,137,Beaches-East York Station 1,Beaches-East York,19,43.691631,-79.305963,15,False,mixed,2022-03-20,9.133333333333333
+7101,2025-11,70,Beaches-East York Station 1,Beaches-East York,19,43.691631,-79.305963,15,False,mixed,2022-03-20,4.666666666666667
+7102,2025-06,178,Beaches-East York Station 2,Beaches-East York,19,43.685641,-79.286521,27,False,mixed,2024-01-15,6.592592592592593
+7102,2025-07,218,Beaches-East York Station 2,Beaches-East York,19,43.685641,-79.286521,27,False,mixed,2024-01-15,8.074074074074074
+7102,2025-08,192,Beaches-East York Station 2,Beaches-East York,19,43.685641,-79.286521,27,False,mixed,2024-01-15,7.111111111111111
+7102,2025-09,168,Beaches-East York Station 2,Beaches-East York,19,43.685641,-79.286521,27,False,mixed,2024-01-15,6.222222222222222
+7102,2025-10,127,Beaches-East York Station 2,Beaches-East York,19,43.685641,-79.286521,27,False,mixed,2024-01-15,4.703703703703703
+7102,2025-11,70,Beaches-East York Station 2,Beaches-East York,19,43.685641,-79.286521,27,False,mixed,2024-01-15,2.5925925925925926
+7103,2025-06,165,Beaches-East York Station 3,Beaches-East York,19,43.667523,-79.291961,15,False,mixed,2023-03-13,11.0
+7103,2025-07,171,Beaches-East York Station 3,Beaches-East York,19,43.667523,-79.291961,15,False,mixed,2023-03-13,11.4
+7103,2025-08,191,Beaches-East York Station 3,Beaches-East York,19,43.667523,-79.291961,15,False,mixed,2023-03-13,12.733333333333333
+7103,2025-09,179,Beaches-East York Station 3,Beaches-East York,19,43.667523,-79.291961,15,False,mixed,2023-03-13,11.933333333333334
+7103,2025-10,122,Beaches-East York Station 3,Beaches-East York,19,43.667523,-79.291961,15,False,mixed,2023-03-13,8.133333333333333
+7103,2025-11,82,Beaches-East York Station 3,Beaches-East York,19,43.667523,-79.291961,15,False,mixed,2023-03-13,5.466666666666667
+7104,2025-06,183,Beaches-East York Station 4,Beaches-East York,19,43.691757,-79.314136,23,False,mixed,2018-12-16,7.956521739130435
+7104,2025-07,182,Beaches-East York Station 4,Beaches-East York,19,43.691757,-79.314136,23,False,mixed,2018-12-16,7.913043478260869
+7104,2025-08,190,Beaches-East York Station 4,Beaches-East York,19,43.691757,-79.314136,23,False,mixed,2018-12-16,8.26086956521739
+7104,2025-09,160,Beaches-East York Station 4,Beaches-East York,19,43.691757,-79.314136,23,False,mixed,2018-12-16,6.956521739130435
+7104,2025-10,137,Beaches-East York Station 4,Beaches-East York,19,43.691757,-79.314136,23,False,mixed,2018-12-16,5.956521739130435
+7104,2025-11,72,Beaches-East York Station 4,Beaches-East York,19,43.691757,-79.314136,23,False,mixed,2018-12-16,3.130434782608696
+7105,2025-06,195,Scarborough Southwest Station 1,Scarborough Southwest,20,43.704599,-79.265029,19,False,mixed,2016-05-14,10.263157894736842
+7105,2025-07,195,Scarborough Southwest Station 1,Scarborough Southwest,20,43.704599,-79.265029,19,False,mixed,2016-05-14,10.263157894736842
+7105,2025-08,209,Scarborough Southwest Station 1,Scarborough Southwest,20,43.704599,-79.265029,19,False,mixed,2016-05-14,11.0
+7105,2025-09,166,Scarborough Southwest Station 1,Scarborough Southwest,20,43.704599,-79.265029,19,False,mixed,2016-05-14,8.736842105263158
+7105,2025-10,103,Scarborough Southwest Station 1,Scarborough Southwest,20,43.704599,-79.265029,19,False,mixed,2016-05-14,5.421052631578948
+7105,2025-11,74,Scarborough Southwest Station 1,Scarborough Southwest,20,43.704599,-79.265029,19,False,mixed,2016-05-14,3.8947368421052633
+7106,2025-06,181,Scarborough Southwest Station 2,Scarborough Southwest,20,43.682101,-79.243692,23,False,mixed,2020-01-02,7.869565217391305
+7106,2025-07,168,Scarborough Southwest Station 2,Scarborough Southwest,20,43.682101,-79.243692,23,False,mixed,2020-01-02,7.304347826086956
+7106,2025-08,200,Scarborough Southwest Station 2,Scarborough Southwest,20,43.682101,-79.243692,23,False,mixed,2020-01-02,8.695652173913043
+7106,2025-09,159,Scarborough Southwest Station 2,Scarborough Southwest,20,43.682101,-79.243692,23,False,mixed,2020-01-02,6.913043478260869
+7106,2025-10,131,Scarborough Southwest Station 2,Scarborough Southwest,20,43.682101,-79.243692,23,False,mixed,2020-01-02,5.695652173913044
+7106,2025-11,69,Scarborough Southwest Station 2,Scarborough Southwest,20,43.682101,-79.243692,23,False,mixed,2020-01-02,3.0
+7107,2025-06,167,Scarborough Southwest Station 3,Scarborough Southwest,20,43.686288,-79.27666,23,False,mixed,2018-04-20,7.260869565217392
+7107,2025-07,208,Scarborough Southwest Station 3,Scarborough Southwest,20,43.686288,-79.27666,23,False,mixed,2018-04-20,9.043478260869565
+7107,2025-08,198,Scarborough Southwest Station 3,Scarborough Southwest,20,43.686288,-79.27666,23,False,mixed,2018-04-20,8.608695652173912
+7107,2025-09,152,Scarborough Southwest Station 3,Scarborough Southwest,20,43.686288,-79.27666,23,False,mixed,2018-04-20,6.608695652173913
+7107,2025-10,120,Scarborough Southwest Station 3,Scarborough Southwest,20,43.686288,-79.27666,23,False,mixed,2018-04-20,5.217391304347826
+7107,2025-11,87,Scarborough Southwest Station 3,Scarborough Southwest,20,43.686288,-79.27666,23,False,mixed,2018-04-20,3.782608695652174
+7108,2025-06,164,Scarborough Southwest Station 4,Scarborough Southwest,20,43.696153,-79.270051,19,False,mixed,2023-10-03,8.631578947368421
+7108,2025-07,174,Scarborough Southwest Station 4,Scarborough Southwest,20,43.696153,-79.270051,19,False,mixed,2023-10-03,9.157894736842104
+7108,2025-08,201,Scarborough Southwest Station 4,Scarborough Southwest,20,43.696153,-79.270051,19,False,mixed,2023-10-03,10.578947368421053
+7108,2025-09,180,Scarborough Southwest Station 4,Scarborough Southwest,20,43.696153,-79.270051,19,False,mixed,2023-10-03,9.473684210526315
+7108,2025-10,105,Scarborough Southwest Station 4,Scarborough Southwest,20,43.696153,-79.270051,19,False,mixed,2023-10-03,5.526315789473684
+7108,2025-11,73,Scarborough Southwest Station 4,Scarborough Southwest,20,43.696153,-79.270051,19,False,mixed,2023-10-03,3.8421052631578947
+7109,2025-06,179,Scarborough Centre Station 1,Scarborough Centre,21,43.769779,-79.279546,19,False,suburban,2017-12-17,9.421052631578947
+7109,2025-07,199,Scarborough Centre Station 1,Scarborough Centre,21,43.769779,-79.279546,19,False,suburban,2017-12-17,10.473684210526315
+7109,2025-08,197,Scarborough Centre Station 1,Scarborough Centre,21,43.769779,-79.279546,19,False,suburban,2017-12-17,10.368421052631579
+7109,2025-09,168,Scarborough Centre Station 1,Scarborough Centre,21,43.769779,-79.279546,19,False,suburban,2017-12-17,8.842105263157896
+7109,2025-10,129,Scarborough Centre Station 1,Scarborough Centre,21,43.769779,-79.279546,19,False,suburban,2017-12-17,6.7894736842105265
+7109,2025-11,89,Scarborough Centre Station 1,Scarborough Centre,21,43.769779,-79.279546,19,False,suburban,2017-12-17,4.684210526315789
+7110,2025-06,165,Scarborough Centre Station 2,Scarborough Centre,21,43.777229,-79.249312,27,False,suburban,2020-05-12,6.111111111111111
+7110,2025-07,190,Scarborough Centre Station 2,Scarborough Centre,21,43.777229,-79.249312,27,False,suburban,2020-05-12,7.037037037037037
+7110,2025-08,192,Scarborough Centre Station 2,Scarborough Centre,21,43.777229,-79.249312,27,False,suburban,2020-05-12,7.111111111111111
+7110,2025-09,163,Scarborough Centre Station 2,Scarborough Centre,21,43.777229,-79.249312,27,False,suburban,2020-05-12,6.037037037037037
+7110,2025-10,118,Scarborough Centre Station 2,Scarborough Centre,21,43.777229,-79.249312,27,False,suburban,2020-05-12,4.37037037037037
+7110,2025-11,69,Scarborough Centre Station 2,Scarborough Centre,21,43.777229,-79.249312,27,False,suburban,2020-05-12,2.5555555555555554
+7111,2025-06,185,Scarborough-Agincourt Station 1,Scarborough-Agincourt,22,43.797381,-79.286665,31,False,suburban,2018-04-29,5.967741935483871
+7111,2025-07,209,Scarborough-Agincourt Station 1,Scarborough-Agincourt,22,43.797381,-79.286665,31,False,suburban,2018-04-29,6.741935483870968
+7111,2025-08,180,Scarborough-Agincourt Station 1,Scarborough-Agincourt,22,43.797381,-79.286665,31,False,suburban,2018-04-29,5.806451612903226
+7111,2025-09,158,Scarborough-Agincourt Station 1,Scarborough-Agincourt,22,43.797381,-79.286665,31,False,suburban,2018-04-29,5.096774193548387
+7111,2025-10,125,Scarborough-Agincourt Station 1,Scarborough-Agincourt,22,43.797381,-79.286665,31,False,suburban,2018-04-29,4.032258064516129
+7111,2025-11,73,Scarborough-Agincourt Station 1,Scarborough-Agincourt,22,43.797381,-79.286665,31,False,suburban,2018-04-29,2.3548387096774195
+7112,2025-06,155,Scarborough-Agincourt Station 2,Scarborough-Agincourt,22,43.789331,-79.306684,23,False,suburban,2018-02-14,6.739130434782608
+7112,2025-07,186,Scarborough-Agincourt Station 2,Scarborough-Agincourt,22,43.789331,-79.306684,23,False,suburban,2018-02-14,8.08695652173913
+7112,2025-08,215,Scarborough-Agincourt Station 2,Scarborough-Agincourt,22,43.789331,-79.306684,23,False,suburban,2018-02-14,9.347826086956522
+7112,2025-09,154,Scarborough-Agincourt Station 2,Scarborough-Agincourt,22,43.789331,-79.306684,23,False,suburban,2018-02-14,6.695652173913044
+7112,2025-10,125,Scarborough-Agincourt Station 2,Scarborough-Agincourt,22,43.789331,-79.306684,23,False,suburban,2018-02-14,5.434782608695652
+7112,2025-11,71,Scarborough-Agincourt Station 2,Scarborough-Agincourt,22,43.789331,-79.306684,23,False,suburban,2018-02-14,3.0869565217391304
+7113,2025-06,171,Scarborough North Station 1,Scarborough North,23,43.833897,-79.279514,31,False,suburban,2020-01-27,5.516129032258065
+7113,2025-07,201,Scarborough North Station 1,Scarborough North,23,43.833897,-79.279514,31,False,suburban,2020-01-27,6.483870967741935
+7113,2025-08,213,Scarborough North Station 1,Scarborough North,23,43.833897,-79.279514,31,False,suburban,2020-01-27,6.870967741935484
+7113,2025-09,151,Scarborough North Station 1,Scarborough North,23,43.833897,-79.279514,31,False,suburban,2020-01-27,4.870967741935484
+7113,2025-10,128,Scarborough North Station 1,Scarborough North,23,43.833897,-79.279514,31,False,suburban,2020-01-27,4.129032258064516
+7113,2025-11,74,Scarborough North Station 1,Scarborough North,23,43.833897,-79.279514,31,False,suburban,2020-01-27,2.3870967741935485
+7114,2025-06,146,Scarborough North Station 2,Scarborough North,23,43.814681,-79.278264,27,False,suburban,2022-09-12,5.407407407407407
+7114,2025-07,185,Scarborough North Station 2,Scarborough North,23,43.814681,-79.278264,27,False,suburban,2022-09-12,6.851851851851852
+7114,2025-08,192,Scarborough North Station 2,Scarborough North,23,43.814681,-79.278264,27,False,suburban,2022-09-12,7.111111111111111
+7114,2025-09,179,Scarborough North Station 2,Scarborough North,23,43.814681,-79.278264,27,False,suburban,2022-09-12,6.62962962962963
+7114,2025-10,118,Scarborough North Station 2,Scarborough North,23,43.814681,-79.278264,27,False,suburban,2022-09-12,4.37037037037037
+7114,2025-11,69,Scarborough North Station 2,Scarborough North,23,43.814681,-79.278264,27,False,suburban,2022-09-12,2.5555555555555554
+7115,2025-06,175,Scarborough-Guildwood Station 1,Scarborough-Guildwood,24,43.747214,-79.187846,31,False,suburban,2024-07-05,5.645161290322581
+7115,2025-07,204,Scarborough-Guildwood Station 1,Scarborough-Guildwood,24,43.747214,-79.187846,31,False,suburban,2024-07-05,6.580645161290323
+7115,2025-08,167,Scarborough-Guildwood Station 1,Scarborough-Guildwood,24,43.747214,-79.187846,31,False,suburban,2024-07-05,5.387096774193548
+7115,2025-09,154,Scarborough-Guildwood Station 1,Scarborough-Guildwood,24,43.747214,-79.187846,31,False,suburban,2024-07-05,4.967741935483871
+7115,2025-10,123,Scarborough-Guildwood Station 1,Scarborough-Guildwood,24,43.747214,-79.187846,31,False,suburban,2024-07-05,3.967741935483871
+7115,2025-11,80,Scarborough-Guildwood Station 1,Scarborough-Guildwood,24,43.747214,-79.187846,31,False,suburban,2024-07-05,2.5806451612903225
+7116,2025-06,162,Scarborough-Guildwood Station 2,Scarborough-Guildwood,24,43.749986,-79.201328,19,False,suburban,2024-10-24,8.526315789473685
+7116,2025-07,206,Scarborough-Guildwood Station 2,Scarborough-Guildwood,24,43.749986,-79.201328,19,False,suburban,2024-10-24,10.842105263157896
+7116,2025-08,195,Scarborough-Guildwood Station 2,Scarborough-Guildwood,24,43.749986,-79.201328,19,False,suburban,2024-10-24,10.263157894736842
+7116,2025-09,161,Scarborough-Guildwood Station 2,Scarborough-Guildwood,24,43.749986,-79.201328,19,False,suburban,2024-10-24,8.473684210526315
+7116,2025-10,119,Scarborough-Guildwood Station 2,Scarborough-Guildwood,24,43.749986,-79.201328,19,False,suburban,2024-10-24,6.2631578947368425
+7116,2025-11,72,Scarborough-Guildwood Station 2,Scarborough-Guildwood,24,43.749986,-79.201328,19,False,suburban,2024-10-24,3.789473684210526
+7117,2025-06,150,Scarborough-Rouge Park Station 1,Scarborough-Rouge Park,25,43.813827,-79.176627,27,False,suburban,2023-04-07,5.555555555555555
+7117,2025-07,172,Scarborough-Rouge Park Station 1,Scarborough-Rouge Park,25,43.813827,-79.176627,27,False,suburban,2023-04-07,6.37037037037037
+7117,2025-08,185,Scarborough-Rouge Park Station 1,Scarborough-Rouge Park,25,43.813827,-79.176627,27,False,suburban,2023-04-07,6.851851851851852
+7117,2025-09,179,Scarborough-Rouge Park Station 1,Scarborough-Rouge Park,25,43.813827,-79.176627,27,False,suburban,2023-04-07,6.62962962962963
+7117,2025-10,129,Scarborough-Rouge Park Station 1,Scarborough-Rouge Park,25,43.813827,-79.176627,27,False,suburban,2023-04-07,4.777777777777778
+7117,2025-11,98,Scarborough-Rouge Park Station 1,Scarborough-Rouge Park,25,43.813827,-79.176627,27,False,suburban,2023-04-07,3.6296296296296298
+7118,2025-06,175,Scarborough-Rouge Park Station 2,Scarborough-Rouge Park,25,43.803429,-79.161984,27,False,suburban,2023-04-08,6.481481481481482
+7118,2025-07,204,Scarborough-Rouge Park Station 2,Scarborough-Rouge Park,25,43.803429,-79.161984,27,False,suburban,2023-04-08,7.555555555555555
+7118,2025-08,221,Scarborough-Rouge Park Station 2,Scarborough-Rouge Park,25,43.803429,-79.161984,27,False,suburban,2023-04-08,8.185185185185185
+7118,2025-09,170,Scarborough-Rouge Park Station 2,Scarborough-Rouge Park,25,43.803429,-79.161984,27,False,suburban,2023-04-08,6.296296296296297
+7118,2025-10,119,Scarborough-Rouge Park Station 2,Scarborough-Rouge Park,25,43.803429,-79.161984,27,False,suburban,2023-04-08,4.407407407407407
+7118,2025-11,58,Scarborough-Rouge Park Station 2,Scarborough-Rouge Park,25,43.803429,-79.161984,27,False,suburban,2023-04-08,2.1481481481481484

@@ -1,0 +1,11 @@
+station_id,station_name,ward,capacity,imbalance_per_day
+7094,Don Valley West Station 4,Don Valley West,19,7.3791208791208796
+7005,Etobicoke-Lakeshore Station 1,Etobicoke-Lakeshore,23,7.153846153846154
+7029,Eglinton-Lawrence Station 3,Eglinton-Lawrence,27,7.1208791208791204
+7002,Etobicoke North Station 2,Etobicoke North,15,7.1098901098901095
+7027,Eglinton-Lawrence Station 1,Eglinton-Lawrence,19,7.032967032967033
+7110,Scarborough Centre Station 2,Scarborough Centre,27,7.021978021978022
+7117,Scarborough-Rouge Park Station 1,Scarborough-Rouge Park,27,7.0054945054945055
+7097,Don Valley North Station 1,Don Valley North,19,6.967032967032967
+7006,Etobicoke-Lakeshore Station 2,Etobicoke-Lakeshore,23,6.956043956043956
+7099,Willowdale Station 1,Willowdale,15,6.945054945054945

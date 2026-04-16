@@ -1,0 +1,5 @@
+station_id,station_name,ward,area_type,has_charging,sep_trips,oct_trips,mom_change_pct
+7094,Don Valley West Station 4,Don Valley West,mixed,False,176.0,99.0,-43.75
+7108,Scarborough Southwest Station 4,Scarborough Southwest,mixed,False,180.0,105.0,-41.666666666666664
+7105,Scarborough Southwest Station 1,Scarborough Southwest,mixed,False,166.0,103.0,-37.95180722891566
+7003,Etobicoke Centre Station 1,Etobicoke Centre,suburban,False,188.0,118.0,-37.234042553191486
