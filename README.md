@@ -2,6 +2,10 @@
 
 ** Operations Analytics Case Study**
 **Author:** Wesley Haruo Kurosawa
+
+**⚠️ Project Disclaimer:
+This project was developed as part of my continuous learning journey in data analytics. Its primary objective is to demonstrate practical application of analytical thinking, data processing, and problem-solving skills.**
+
 **Stack:** Python (pandas, matplotlib), SQL (PostgreSQL syntax)
 
 ---
