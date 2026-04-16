@@ -14,9 +14,9 @@
 
 ## Executive Summary
 
-Between September and October 2025, overall ridership for a share system declined as expected due to seasonality — but a subset of downtown stations dropped at a rate far steeper than the seasonal baseline. This project detects that anomaly, isolates its root cause (an e-bike charging infrastructure outage affecting three downtown wards), quantifies the impact, and delivers a rebalancing recommendation for affected stations.
+Between September and October 2025, overall ridership for a share system declined as expected due to seasonality — but a subset of downtown stations dropped at a rate far steeper than the seasonal baseline. This project detects that anomaly, isolates its root cause (an ......... charging infrastructure outage affecting three downtown wards), quantifies the impact, and delivers a rebalancing recommendation for affected stations.
 
-The analysis replicates the kind of investigation a Data Analyst on the ....... Urban Solutions team would run when a city partner reports degraded service in a specific area.
+The analysis replicates the kind of investigation a Data Analyst on the ....... ......... team would run when a city partner reports degraded service in a specific area.
 
 **Key findings:**
 
@@ -24,19 +24,19 @@ The analysis replicates the kind of investigation a Data Analyst on the ....... 
 |---|---|
 | System-wide MoM drop of ~22% is expected (seasonal baseline) | Historical trend + weather-controlled comparison |
 | 2 downtown stations dropped >35% — not explained by seasonality or weather | MoM anomaly detection, Query 2 |
-| E-bike share in downtown trips collapsed from **19.9% → 5.0%** during Oct 1–14 | Bike-type segmentation, Query 4 |
+| ......... share in downtown trips collapsed from **19.9% → 5.0%** during Oct 1–14 | Bike-type segmentation, Query 4 |
 | Drop is concentrated in commute hours (8 AM, 5 PM), not off-peak | Hourly pattern comparison, Chart 4 |
-| Root cause: temporary e-bike charging infrastructure outage | Isolated to charging-enabled downtown wards |
+| Root cause: temporary ......... charging infrastructure outage | Isolated to charging-enabled downtown wards |
 
-**Recommendation:** Deploy additional ICONIC (classic) bikes to affected downtown stations during the outage window; prioritize charging-station maintenance response time; add an early-warning alert when a ward's e-bike share deviates >30% from its 30-day rolling baseline.
+**Recommendation:** Deploy additional ICONIC (classic) ......... to affected downtown stations during the outage window; prioritize charging-station maintenance response time; add an early-warning alert when a ward's ......... share deviates >30% from its 30-day rolling baseline.
 
 ---
 
 ## Business Context
 
-....... operates 1,042 stations and over 10,000 bikes across all 25 Toronto wards. The system recorded 7.8 million trips in 2025, with e-bikes delivering **twice the trips-per-day** of classic bikes. This makes e-bike availability a critical revenue driver — a charging outage doesn't just inconvenience riders; it materially affects the system's financial performance and its contractual SLAs with the Toronto Parking Authority.
+....... operates 1,042 stations and over 10,000 ......... across all 25 Toronto wards. The system recorded 7.8 million trips in 2025, with e-......... delivering **twice the trips-per-day** of classic .......... This makes ......... availability a critical revenue driver — a charging outage doesn't just inconvenience riders; it materially affects the system's financial performance and its contractual SLAs with the Toronto Parking Authority.
 
-As the operator, ....... Urban Solutions is contractually required to maintain minimum service levels: bike availability at stations, fleet operational percentage, and maintenance response time. Detecting anomalies early and diagnosing them correctly is directly tied to contract compliance and revenue.
+As the operator, ....... ......... is contractually required to maintain minimum service levels: bike availability at stations, fleet operational percentage, and maintenance response time. Detecting anomalies early and diagnosing them correctly is directly tied to contract compliance and revenue.
 
 ---
 
@@ -60,7 +60,7 @@ Six months of synthetic trip data (June–November 2025) matching the real .....
 - **`stations.csv`** — 118 stations with location, capacity, ward, charging capability
 - **`weather.csv`** — Daily temperature and precipitation for the period
 
-The dataset contains an **intentionally injected anomaly**: e-bike availability in three downtown wards (Toronto Centre, Spadina-Fort York, University-Rosedale) is suppressed from October 1–14 to simulate a charging infrastructure outage. This lets the analysis demonstrate a realistic detection → diagnosis → recommendation workflow.
+The dataset contains an **intentionally injected anomaly**: ......... availability in three downtown wards (Toronto Centre, Spadina-Fort York, University-Rosedale) is suppressed from October 1–14 to simulate a charging infrastructure outage. This lets the analysis demonstrate a realistic detection → diagnosis → recommendation workflow.
 
 ---
 
@@ -83,7 +83,7 @@ Four competing hypotheses were tested:
 | **H1:** Weather-driven | Filter to dry days only, recompute | Rejected — dry-day trips also dropped |
 | **H2:** Station cannibalization | Check for new nearby stations | Rejected — no new stations opened in the period |
 | **H3:** Seasonal above expectation | Compare to prior-year seasonal curve | Rejected — deviation exceeds historical pattern |
-| **H4:** Infrastructure failure (charging) | Segment by bike type | **Confirmed** — e-bike share collapsed while classic bike use stayed stable |
+| **H4:** Infrastructure failure (charging) | Segment by bike type | **Confirmed** — ......... share collapsed while classic bike use stayed stable |
 
 ### Step 4 — Flow imbalance for rebalancing
 
@@ -93,18 +93,18 @@ To inform the operational response, compute net flow (arrivals − departures) p
 
 ## Key Results
 
-### Downtown e-bike share — the smoking gun
+### Downtown ......... share — the smoking gun
 
 | Period | Classic | Electric |
 |---|---|---|
 | Sep 15–30 (baseline) | 80.1% | 19.9% |
 | Oct 1–14 (outage window) | 95.0% | 5.0% |
 
-The classic-bike share jumped from 80% to 95% in two weeks — riders didn't stop riding, they switched to whatever bikes were available. This pattern is diagnostic of a supply-side issue (charging infrastructure), not a demand-side issue (weather, pricing, interest).
+The classic-bike share jumped from 80% to 95% in two weeks — riders didn't stop riding, they switched to whatever ......... were available. This pattern is diagnostic of a supply-side issue (charging infrastructure), not a demand-side issue (weather, pricing, interest).
 
 ### Hourly pattern
 
-The drop is concentrated in commute hours (8 AM and 5 PM). Off-peak hours show normal seasonal patterns. This reinforces the diagnosis — commuters rely on e-bikes for predictable, fast trips; recreational riders are more flexible.
+The drop is concentrated in commute hours (8 AM and 5 PM). Off-peak hours show normal seasonal patterns. This reinforces the diagnosis — commuters rely on e-......... for predictable, fast trips; recreational riders are more flexible.
 
 ### Weather control
 
@@ -122,11 +122,11 @@ Dry-day-only average trips:
 2. **Accelerate charging station maintenance** — reduce current mean-time-to-repair target by 50% for downtown charging docks.
 
 ### Medium-term (next quarter)
-1. **Automated early-warning alert** — flag any ward where e-bike share deviates >30% from its 30-day rolling baseline. Current outage could have been detected within 48 hours instead of two weeks.
-2. **Rebalancing route optimization** — Query 7 output suggests 20 depletion/supplier pairs that could reduce daily bike shortfall by up to 100 bikes/day through targeted rebalancing.
+1. **Automated early-warning alert** — flag any ward where ......... share deviates >30% from its 30-day rolling baseline. Current outage could have been detected within 48 hours instead of two weeks.
+2. **Rebalancing route optimization** — Query 7 output suggests 20 depletion/supplier pairs that could reduce daily bike shortfall by up to 100 ........./day through targeted rebalancing.
 
 ### Long-term (next year)
-1. **Redundant charging capacity** in top-10 revenue stations so a single maintenance event doesn't collapse e-bike supply.
+1. **Redundant charging capacity** in top-10 revenue stations so a single maintenance event doesn't collapse ......... supply.
 2. **Contractual clarification** — discuss SLA response-time targets with TPA given that charging-infrastructure outages have asymmetric revenue impact compared to non-charging maintenance events.
 
 ---
